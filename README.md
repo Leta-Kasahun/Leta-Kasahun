@@ -5,20 +5,20 @@
     src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=4682B4&center=true&vCenter=true&width=1000&lines=👋+Hi+there!+I'm+Leta+Kasahun;🚀+Passionate+Software+Engineer+from+Ethiopia+🇪🇹;💻+Crafting+scalable+web+%26+mobile+apps+with+clean+code;🌱+Growing+through+open-source+%26+continuous+learning;🔥+Turning+ideas+into+impact+with+tech." 
     alt="Animated Introduction">
 </p>
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Leta-Kasahun&theme=radical&row=2&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=Leta-Kasahun&theme=onedark&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" style="max-width: 100%">
 </p>
 
-## 📈 Activity Graph
+## 📊 Coding Activity
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Leta-Kasahun&theme=react-dark&hide_border=true&area=true&color=AB47BC&line=8BC34A&point=FBC02D" alt="GitHub Activity">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leta-Kasahun&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph&color=58A6FF&line=1F6FEB&point=1F6FEB" alt="Activity Graph">
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Leta-Kasahun&label=Profile+Views&color=FF5722&style=flat-square" alt="Profile Views">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Leta-Kasahun&label=Profile%20Views&color=1F6FEB&style=flat" alt="Profile Views">
 </p>
 ## 🎓 About Me
 
