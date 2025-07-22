@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+Project!;Built+with+❤️+and+JavaScript!)
 **Leta-Kasahun/Leta-Kasahun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
