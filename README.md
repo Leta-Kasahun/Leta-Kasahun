@@ -1,8 +1,11 @@
 ## Hi there 👋
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00F7A5&center=true&vCenter=true&width=700&lines=✨+Welcome+to+my+world+of+code!;👋+Ola!+I+am+Leta+Kasahun;🚀+A+passionate+Software+Engineering+student+from+Ethiopia+🇪🇹;🌍+Building+web+%26+mobile+apps+with+clean+code+and+big+dreams.;💡+Always+curious%2C+always+learning+something+new." alt="Typing SVG">
-</h1>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=500&color=0A192F&center=true&vCenter=true&width=900&lines=✨+Welcome+to+my+world+of+code!;👋+Ola!+I+am+Leta+Kasahun;🚀+A+passionate+Software+Engineering+student+from+Ethiopia+🇪🇹;🌍+Building+web+%26+mobile+apps+with+clean+code+and+big+dreams.;💡+Always+curious%2C+always+learning+something+new." 
+    alt="Welcome Typing SVG">
+</p>
+
 
 
 Here are some ideas to get you started:
