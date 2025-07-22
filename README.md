@@ -6,7 +6,7 @@
     alt="Animated Introduction">
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Leta-Kasahun&theme=radical&no-bg=true&no-frame=false&margin-w=8&border=6&border_radius=12&title=Stars,Commits,PullRequest,Issues,Repositories,Followers,Reviews,Discussions" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=Leta-Kasahun&theme=radical&no-bg=true&no-frame=false&margin-w=8&border=6&border_radius=12&title=Stars,Commits,PullRequest,Issues,Repositories,Followers,Reviews,Discussions,Organizations,MultiLanguage" alt="GitHub Trophies">
 </p>
 ## 📊 Coding Activity
 
