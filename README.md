@@ -5,12 +5,16 @@
     src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=4682B4&center=true&vCenter=true&width=1000&lines=👋+Hi+there!+I'm+Leta+Kasahun;🚀+Passionate+Software+Engineer+from+Ethiopia+🇪🇹;💻+Crafting+scalable+web+%26+mobile+apps+with+clean+code;🌱+Growing+through+open-source+%26+continuous+learning;🔥+Turning+ideas+into+impact+with+tech." 
     alt="Animated Introduction">
 </p>
-## 🚀 Quick Facts About Me
+## 🎓 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2500&pause=800&color=4F8CC9&center=true&width=850&lines=💻+Full-stack+developer+(MERN+stack);☁️+Learning+cloud+deployment+%26+DevOps;🤝+Open+to+collaborate+on+impactful+projects;🇪🇹+Building+tech+community+in+Ethiopia" alt="Current Focus">
-</p>
-
+- 🌱 **Currently:** Software Engineering student at Debre Brehan University
+- 💻 **Focusing on:** Mastering full-stack development (MERN stack)
+- ☁️ **Exploring:** Cloud technologies & DevOps fundamentals
+- 🤝 **Passionate about:** Open-source contributions and tech community building
+- 💡 **Ask me about:** Python, JavaScript, or any development topics!
+- 📫 **Contact:** letakasahun2@gmail.com
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun Fact:** I love transforming real-world problems into code solutions while growing Ethiopia's tech ecosystem 🇪🇹
 ## 📬 Connect With Me
 <p align="center">
   <a href="mailto:letakasahun2@gmail.com">
