@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+Project!;Built+with+❤️+and+JavaScript!)
-**Leta-Kasahun/Leta-Kasahun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00F7A5&center=true&vCenter=true&width=700&lines=✨+Welcome+to+my+world+of+code!;👋+Ola!+I+am+Leta+Kasahun;🚀+A+passionate+Software+Engineering+student+from+Ethiopia+🇪🇹;🌍+Building+web+%26+mobile+apps+with+clean+code+and+big+dreams.;💡+Always+curious%2C+always+learning+something+new." alt="Typing SVG">
+</p>
+
 
 Here are some ideas to get you started:
 
@@ -13,3 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: letakasahun2@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving real-world problems with code and enjoy contributing to tech communities in Ethiopia 🇪🇹.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00F7A5&center=true&vCenter=true&width=700&lines=🙏+Thanks+for+scrolling+through+my+profile!;👋+Goodbye+for+now+—+see+you+around!;💬+Let's+connect+and+build+something+amazing+together." alt="Goodbye Typing SVG">
+</p>
