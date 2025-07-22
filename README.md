@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: letakasahun2@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving real-world problems with code and enjoy contributing to tech communities in Ethiopia 🇪🇹.
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=00F7A5&center=true&vCenter=true&width=700&lines=🙏+Thanks+for+scrolling+through+my+profile!;👋+Goodbye+for+now+—+see+you+around!;💬+Let's+connect+and+build+something+amazing+together." alt="Goodbye Typing SVG">
-</h1>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=500&color=00F7A5&center=true&vCenter=true&width=900&lines=🙏+Thanks+for+scrolling+through+my+profile!;👋+Goodbye+for+now+—+see+you+around!;💬+Let's+connect+and+build+something+amazing+together." 
+    alt="Goodbye Typing SVG">
+</p>
+
