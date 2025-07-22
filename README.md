@@ -6,7 +6,7 @@
     alt="Welcome Typing SVG">
 </p>
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 Here are some ideas to get you started:
 
