@@ -5,6 +5,21 @@
     src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=4682B4&center=true&vCenter=true&width=1000&lines=👋+Hi+there!+I'm+Leta+Kasahun;🚀+Passionate+Software+Engineer+from+Ethiopia+🇪🇹;💻+Crafting+scalable+web+%26+mobile+apps+with+clean+code;🌱+Growing+through+open-source+%26+continuous+learning;🔥+Turning+ideas+into+impact+with+tech." 
     alt="Animated Introduction">
 </p>
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Leta-Kasahun&theme=radical&row=2&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies">
+</p>
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Leta-Kasahun&theme=react-dark&hide_border=true&area=true&color=AB47BC&line=8BC34A&point=FBC02D" alt="GitHub Activity">
+</p>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Leta-Kasahun&label=Profile+Views&color=FF5722&style=flat-square" alt="Profile Views">
+</p>
 ## 🎓 About Me
 
 🌱 **Currently** Software Engineering student at DBU  
