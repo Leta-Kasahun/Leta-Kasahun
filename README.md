@@ -5,10 +5,8 @@
     src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=4682B4&center=true&vCenter=true&width=1000&lines=👋+Hi+there!+I'm+Leta+Kasahun;🚀+Passionate+Software+Engineer+from+Ethiopia+🇪🇹;💻+Crafting+scalable+web+%26+mobile+apps+with+clean+code;🌱+Growing+through+open-source+%26+continuous+learning;🔥+Turning+ideas+into+impact+with+tech." 
     alt="Animated Introduction">
 </p>
-## 🏆 GitHub Achievements
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Leta-Kasahun&theme=onedark&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" style="max-width: 100%">
+  <img src="https://github-profile-trophy.vercel.app/?username=Leta-Kasahun&theme=radical&rank=-?&row=1&column=7&no-bg=true&no-frame=true&margin-w=5" alt="GitHub Trophies">
 </p>
 
 ## 📊 Coding Activity
