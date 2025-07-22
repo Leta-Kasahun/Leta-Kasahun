@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Leta-Kasahun&theme=radical&rank=-?&row=1&column=7&no-bg=true&no-frame=true&margin-w=5" alt="GitHub Trophies">
 </p>
-
 ## 📊 Coding Activity
 
 <p align="center">
