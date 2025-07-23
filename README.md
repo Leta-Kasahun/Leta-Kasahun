@@ -21,8 +21,7 @@
 
 🌱 **Currently** Software Engineering student at DBU  
 💻 **Focusing on** Mastering full-stack development (MERN stack)  
-☁️ **Exploring** Cloud technologies & DevOps fundamentals  
-🤝 **Passionate about** Open-source contributions and tech community building  
+☁️ **Exploring** Cloud technologies & DevOps fundamentals   
 💡 **Ask me about** Python, JavaScript, or any development topics!  
 📫 **Contact** letakasahun2@gmail.com  
 😄 **Pronouns** He/Him  
