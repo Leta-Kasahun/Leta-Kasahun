@@ -127,33 +127,25 @@
 </div>
 ## 🌍 Open Source Contributions
 
-## 🌍 Open Source Contributions
+<div align="center">
 
-<table>
-  <tr>
-    <!-- Contribution Stats -->
-    <td width="50%" valign="top">
-      <h3 align="center">My Contributions</h3>
-      <div align="center">
-        <a href="https://github.com/Leta-Kasahun">
-          <img src="https://github-contribution-stats.vercel.app/api/?username=Leta-Kasahun&theme=radical&show_icons=true&hide_border=true" width="90%">
-        </a>
-      </div>
-    </td>
-      <!-- Pinned Repositories -->
-    <td width="50%" valign="top">
-      <h3 align="center">Featured Contributions</h3>
-      <div align="center">
-        <a href="https://github.com/your-contributed-repo">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=repo-owner&repo=repo-name&theme=radical&hide_border=true" width="90%">
-        </a>
-        <a href="https://github.com/another-contributed-repo">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=repo-owner&repo=repo-name&theme=radical&hide_border=true" width="90%">
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
+### My Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Leta-Kasahun&theme=radical&hide_border=true&area=true&custom_title=My%20Open%20Source%20Contributions" width="90%">
+
+</div>
+
+<!-- Only include this if you have specific notable contributions -->
+<div align="center" style="margin-top: 20px;">
+
+### Notable Contributions
+<a href="https://github.com/owner/repo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=owner&repo=repo&theme=radical&hide_border=true" width="45%" style="display: inline-block; margin: 0 1%;">
+</a>
+<a href="https://github.com/owner/repo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=owner&repo=repo&theme=radical&hide_border=true" width="45%" style="display: inline-block; margin: 0 1%;">
+</a>
+
+</div>
 ## 💻 Most Used Languages 
 
 <p align="center">
