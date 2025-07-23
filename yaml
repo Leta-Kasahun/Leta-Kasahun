@@ -1,0 +1,25 @@
+# .github/workflows/snake.yml
+name: Generate Snake Game
+on:
+schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@v2
+        with:
+          github_user_name: Leta-Kasahun
+          outputs: |
+            github-contribution-grid-snake.svg
+            github-contribution-grid-snake-dark.svg
+            github-contribution-grid-snake-light.svg
+            github-contribution-grid-snake-gradient.svg
+      - uses: crazy-max/ghaction-github-pages@v2
+        with:
+          target_branch: output
+          build_dir: .
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
