@@ -127,24 +127,33 @@
 </div>
 ## 🌍 Open Source Contributions
 
+## 🌍 Open Source Contributions
+
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">Contributed Projects</h3>
+    <!-- Contribution Stats -->
+    <td width="50%" valign="top">
+      <h3 align="center">My Contributions</h3>
       <div align="center">
-        <img src="https://github-contribution-stats.vercel.app/api/?username=Leta-Kasahun&theme=radical" width="90%">
+        <a href="https://github.com/Leta-Kasahun">
+          <img src="https://github-contribution-stats.vercel.app/api/?username=Leta-Kasahun&theme=radical&show_icons=true&hide_border=true" width="90%">
+        </a>
       </div>
     </td>
-    <td width="50%">
-      <h3 align="center">Pull Requests</h3>
+      <!-- Pinned Repositories -->
+    <td width="50%" valign="top">
+      <h3 align="center">Featured Contributions</h3>
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=open-source-org&repo=popular-repo&theme=radical" width="90%">
-        <p>Replace with actual projects you've contributed to</p>
+        <a href="https://github.com/your-contributed-repo">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=repo-owner&repo=repo-name&theme=radical&hide_border=true" width="90%">
+        </a>
+        <a href="https://github.com/another-contributed-repo">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=repo-owner&repo=repo-name&theme=radical&hide_border=true" width="90%">
+        </a>
       </div>
     </td>
   </tr>
 </table>
-
 ## 💻 Most Used Languages 
 
 <p align="center">
