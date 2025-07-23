@@ -105,14 +105,26 @@
 </table> 
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leta-Kasahun&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leta-Kasahun&theme=radical&hide_border=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leta-Kasahun&layout=compact&theme=radical&hide_border=true&langs_count=8" width="48%">
-</p>
+<div align="center">
 
+  <!-- Main Stats Card -->
+  <a href="https://github.com/Leta-Kasahun">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Leta-Kasahun&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="Leta's GitHub Stats">
+  </a>
+  
+  <!-- Streak Stats -->
+  <a href="https://github.com/Leta-Kasahun">
+    <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Leta-Kasahun&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakNum=ffffff&dates=58a6ff" alt="Leta's Streak Stats">
+  </a>
+
+</div>
+
+<!-- Weekly Activity -->
+<div align="center">
+  <img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=Leta-Kasahun&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=ff6b6b&point=ffffff" alt="Weekly Activity">
+</div>
 ## 🌍 Open Source Contributions
 
 <table>
