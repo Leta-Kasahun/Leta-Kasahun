@@ -102,7 +102,44 @@
       </p>
     </td>
   </tr>
+</table> 
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Leta-Kasahun&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leta-Kasahun&theme=radical&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leta-Kasahun&layout=compact&theme=radical&hide_border=true&langs_count=8" width="48%">
+</p>
+
+## 🌍 Open Source Contributions
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Contributed Projects</h3>
+      <div align="center">
+        <img src="https://github-contribution-stats.vercel.app/api/?username=Leta-Kasahun&theme=radical" width="90%">
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Pull Requests</h3>
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=open-source-org&repo=popular-repo&theme=radical" width="90%">
+        <p>Replace with actual projects you've contributed to</p>
+      </div>
+    </td>
+  </tr>
 </table>
+
+## 💻 Most Used Languages 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leta-Kasahun&hide=html,css&layout=donut-vertical&theme=radical&hide_border=true&langs_count=6" width="60%">
+</p> 
+
+
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=500&color=00F7A5&center=true&vCenter=true&width=900&lines=🙏+Thanks+for+scrolling+through+my+profile!;👋+Goodbye+for+now+—+see+you+around!;💬+Let's+connect+and+build+something+amazing+together." 
