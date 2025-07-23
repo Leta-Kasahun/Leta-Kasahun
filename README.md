@@ -129,23 +129,33 @@
 
 <div align="center">
 
-### My Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Leta-Kasahun&theme=radical&hide_border=true&area=true&custom_title=My%20Open%20Source%20Contributions" width="90%">
+## 🌍 Open Source Contributions
 
-</div>
-
-<!-- Only include this if you have specific notable contributions -->
-<div align="center" style="margin-top: 20px;">
-
-### Notable Contributions
-<a href="https://github.com/owner/repo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=owner&repo=repo&theme=radical&hide_border=true" width="45%" style="display: inline-block; margin: 0 1%;">
-</a>
-<a href="https://github.com/owner/repo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=owner&repo=repo&theme=radical&hide_border=true" width="45%" style="display: inline-block; margin: 0 1%;">
-</a>
-
-</div>
+<table>
+  <tr>
+    <!-- Contribution Stats -->
+    <td width="50%" valign="top">
+      <h3 align="center">My Contributions</h3>
+      <div align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leta-Kasahun&theme=radical&hide_border=true&area=true&custom_title=Contribution+Activity" width="100%">
+      </div>
+    </td>
+    <!-- Pinned Repositories -->
+    <td width="50%" valign="top">
+      <h3 align="center">Featured Work</h3>
+      <div align="center">
+        <!-- Replace with your actual contributed repos -->
+        <a href="https://github.com/facebook/react">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=facebook&repo=react&theme=radical&hide_border=true" width="90%">
+        </a>
+        <br>
+        <a href="https://github.com/nodejs/node">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=nodejs&repo=node&theme=radical&hide_border=true" width="90%">
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 ## 💻 Most Used Languages 
 
 <p align="center">
