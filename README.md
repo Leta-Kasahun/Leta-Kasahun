@@ -125,7 +125,7 @@
 <div align="center">
   <img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=Leta-Kasahun&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&line=ff6b6b&point=ffffff" alt="Weekly Activity">
 </div>
-## 🌍 Open Source Contributions
+
 
 <div align="center">
 
