@@ -1,4 +1,9 @@
-## ✨ Welcome to My GitHub Universe!
+
+✨ Welcome to My GitHub Universe!
+
+<p align="center">
+  <img src="https://oaidalleapiprodscus.blob.core.windows.net/private/org-nG6YNMkVuCIG9D8x4mSkBftz/user-fRhQFoEQP8nKbmxvwMFG7fHy/img-ZTXYgrl6epY8bc0yrtv6SnD6.png?st=2025-07-22T12%3A41%3A44Z&se=2025-07-22T14%3A41%3A44Z&sp=r&sv=2021-08-06&sr=b&sig=BL4byMkUreLKObYbwjpo0UQjynpAK3OcfCptWyUArQU%3D" alt="Leta Kasahun GitHub Banner" width="100%">
+</p>
 
 <p align="center">
   <img 
