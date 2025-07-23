@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Leta-Kasahun&theme=radical&no-bg=true&no-frame=false&margin-w=8&border=6&border_radius=12&title=Stars,Commits,PullRequest,Issues,Repositories,Followers,Reviews,Discussions,Organizations,MultiLanguage&rank=-C" alt="GitHub Trophies">
 </p>
-## 📊 Coding Activity
+ 📊 Coding Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leta-Kasahun&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph&color=58A6FF&line=1F6FEB&point=1F6FEB" alt="Activity Graph">
@@ -46,7 +46,7 @@
   </a>
 </p>
 
-## 💻 Technical Skills
+ 💻 Technical Skills
 
 <table align="center">
   <tr>
@@ -104,7 +104,7 @@
 </table> 
 
 
-## 📊 GitHub Analytics
+📊 GitHub Analytics
 
 <div align="center">
 
