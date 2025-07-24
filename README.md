@@ -95,16 +95,19 @@
 
 
  📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Leta-Kasahun&theme=cobalt&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Leta-Kasahun&theme=cobalt&hide_border=false)<br/>
-
-
-
- <!-- Stats Row with Glow Effect -->
-  <div style="display: flex; flex-wrap: wrap; gap: 10; justify-content: center">
-    <img src="https://streak-stats.demolab.com?user=Leta-Kasahun&theme=radical&border_radius=10&fire=FF7F50" width="48%">
-    <img src="https://github-readme-stats.vercel.app/api?username=Leta-Kasahun&show_icons=true&theme=radical&include_all_commits=true" width="48%">
+<!-- Equal Height Stats Row -->
+<div style="display: flex; flex-wrap: wrap; gap: 10; align-items: stretch;">
+  <!-- Streak Stats -->
+  <div style="flex: 1; min-width: 300;">
+    <img src="https://streak-stats.demolab.com?user=Leta-Kasahun&theme=radical&border_radius=10&fire=FF7F50" style="height: 100; object-fit: cover;">
   </div>
+  
+  <!-- GitHub Stats -->
+  <div style="flex: 1; min-width: 300;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Leta-Kasahun&show_icons=true&theme=radical" style="height: 100; object-fit: cover;">
+  </div>
+</div>
+
 
 
 
