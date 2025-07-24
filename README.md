@@ -12,7 +12,7 @@
 </p>
 
 
- ##🌟 Achievements
+ 🌟 Achievements
 ![](https://github-profile-trophy.vercel.app/?username=Leta-Kasahun&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
 
 [![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Leta-Kasahun.Leta-Kasahun&style=for-the-badge&logo=github&label=Profile%20Views&labelColor=1F222E&color=00F7A5)](https://github.com/Leta-Kasahun)  
@@ -28,7 +28,7 @@
 😄 **Pronouns** He/Him  
 ⚡ **Fun Fact** I love transforming real-world problems into code solutions while growing Ethiopia's tech ecosystem 🇪🇹
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 🌐 Connect With Me:
+ 🌐 Connect With Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leta_kasahun) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/LinkedIn/in/leta-kasahun) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@letakasahun) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:letakasahun2@gmail.com) 
 
 
@@ -95,7 +95,7 @@
 
 
 
-# 📊 GitHub Stats:
+ 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Leta-Kasahun&theme=cobalt&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Leta-Kasahun&theme=cobalt&hide_border=false)<br/>
 
@@ -108,7 +108,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leta-Kasahun&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph&color=58A6FF&line=1F6FEB&point=1F6FEB" alt="Activity Graph">
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 💻 Most Used Languages 
+ 💻 Most Used Languages 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leta-Kasahun&hide=html,css&layout=donut-vertical&theme=radical&hide_border=true&langs_count=6" width="60%">
