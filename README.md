@@ -1,4 +1,6 @@
-<!-- At the very top of your README.md -->
+<div align="center">
+  <!-- Animated Header with Ethiopia Flag -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7A5&width=800&lines=✨+Welcome+to+my+GitHub!;🇪🇹+Passionate+Developer+from+Ethiopia;🚀+Building+Scalable+Web+%26+Mobile+Apps" alt="Animated Header"><!-- At the very top of your README.md -->
 <h1 align="center" style="font-size: 2.5em;">
   ✨ Welcome to My GitHub Universe! ✨
 </h1>
