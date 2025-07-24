@@ -101,6 +101,10 @@
 
 
 
+
+
+## 📊 3D Coding Activity  
+[![3D Stats](https://github-readme-3d-stats.vercel.app/api?username=Leta-Kasahun&theme=radical)](https://github.com/Leta-Kasahun)  
 <!-- Weekly Activity -->
 📊 Coding Activity
 
