@@ -9,9 +9,9 @@
     alt="Animated Introduction">
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Leta-Kasahun&theme=radical&no-bg=true&no-frame=false&margin-w=8&border=6&border_radius=12&title=Stars,Commits,PullRequest,Issues,Repositories,Followers,Reviews,Discussions,Organizations,MultiLanguage&rank=-C" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=Leta-Kasahun&theme=radical&no-bg=true&no-frame=false&margin w=8&border=6&border_radius=12&title=Stars,Commits,PullRequest,Issues,Repositories,Followers,Reviews,Discussions,Organizations,MultiLanguage&rank=-C" alt="GitHub Trophies">
 </p>
- 
+ <br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Leta-Kasahun&label=Profile%20Views&color=1F6FEB&style=flat" alt="Profile Views">
 </p>
@@ -24,8 +24,8 @@
 📫 **Contact** letakasahun2@gmail.com  
 😄 **Pronouns** He/Him  
 ⚡ **Fun Fact** I love transforming real-world problems into code solutions while growing Ethiopia's tech ecosystem 🇪🇹
- 📬 Connect With Me
-
+ 
+   #📬 Connect With Me
 <p align="center">
   <a href="mailto:letakasahun2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
