@@ -91,7 +91,8 @@
   </tr>
 </table> 
 
-
+## ⌨️ Weekly Coding Time  
+[![wakatime](https://wakatime.com/badge/user/{USER_ID}.svg)](https://wakatime.com/@Leta-Kasahun)  
 
 
 
@@ -103,8 +104,7 @@
 
 
 
-## 📊 3D Coding Activity  
-[![3D Stats](https://github-readme-3d-stats.vercel.app/api?username=Leta-Kasahun&theme=radical)](https://github.com/Leta-Kasahun)  
+
 <!-- Weekly Activity -->
 📊 Coding Activity
 
