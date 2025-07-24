@@ -91,9 +91,8 @@
   </tr>
 </table> 
 
-## ⌨️ Weekly Coding Time  
-[![wakatime](https://wakatime.com/badge/user/{USER_ID}.svg)](https://wakatime.com/@Leta-Kasahun)  
-
+## ⌨️ Weekly Coding Activity
+![WakaTime Chart](https://wakatime.com/share/@Leta-Kasahun/auto.svg)
 
 
  📊 GitHub Stats:
