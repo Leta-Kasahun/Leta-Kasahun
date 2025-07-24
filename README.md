@@ -1,6 +1,4 @@
-<div align="center">
-  <!-- Animated Header with Ethiopia Flag -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7A5&width=800&lines=✨+Welcome+to+my+GitHub!;🇪🇹+Passionate+Developer+from+Ethiopia;🚀+Building+Scalable+Web+%26+Mobile+Apps" alt="Animated Header"><!-- At the very top of your README.md -->
+<!-- At the very top of your README.md -->
 <h1 align="center" style="font-size: 2.5em;">
   ✨ Welcome to My GitHub Universe! ✨
 </h1>
@@ -93,8 +91,7 @@
   </tr>
 </table> 
 
-## ⌨️ Weekly Coding Activity
-![WakaTime Chart](https://wakatime.com/share/@Leta-Kasahun/auto.svg)
+
 
 
  📊 GitHub Stats:
@@ -103,6 +100,11 @@
 
 
 
+ <!-- Stats Row with Glow Effect -->
+  <div style="display: flex; flex-wrap: wrap; gap: 10; justify-content: center">
+    <img src="https://streak-stats.demolab.com?user=Leta-Kasahun&theme=radical&border_radius=10&fire=FF7F50" width="48%">
+    <img src="https://github-readme-stats.vercel.app/api?username=Leta-Kasahun&show_icons=true&theme=radical&include_all_commits=true" width="48%">
+  </div>
 
 
 
