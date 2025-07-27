@@ -105,7 +105,7 @@
  💻 Most Used Languages 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leta-Kasahun&langs_count=10&layout=donut-vertical&theme=radical&hide=html&hide_border=true"&hide=HTML 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leta-Kasahun&langs_count=10&layout=donut-vertical&theme=radical&hide_border=false"
     width="60%" 
     alt="Most Used Languages">
 
