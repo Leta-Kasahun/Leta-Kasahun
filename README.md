@@ -99,13 +99,16 @@
 ![](https://github-readme-stats.vercel.app/api?username=Leta-Kasahun&theme=cobalt&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Leta-Kasahun&theme=cobalt&hide_border=false)<br/>
 
-
-<!-- Weekly Activity -->
-📊 Coding Activity
+🧠 GitHub Contribution Radar & Profile Summary
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leta-Kasahun&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph&color=58A6FF&line=1F6FEB&point=1F6FEB" alt="Activity Graph">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leta-Kasahun&theme=radical" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Leta-Kasahun&theme=radical" alt="Productive Time" />
 </p>
+<!-- Weekly Activity -->
+
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
  💻 Most Used Languages 
 
@@ -115,7 +118,11 @@
     width="60%" 
     alt="Most Used Languages">
 </p>
+📊 Coding  Activity Graph
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leta-Kasahun&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph&color=58A6FF&line=1F6FEB&point=1F6FEB" alt="Activity Graph">
+</p>
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=500&color=00F7A5&center=true&vCenter=true&width=900&lines=🙏+Thanks+for+scrolling+through+my+profile!;👋+Goodbye+for+now+—+see+you+around!;💬+Let's+connect+and+build+something+amazing+together." 
