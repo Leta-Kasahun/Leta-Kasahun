@@ -104,8 +104,12 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
  💻 Most Used Languages 
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leta-Kasahun&langs_count=10&layout=donut-vertical&theme=radical&hide=html&hide_border=true"&hide=HTML 
+    width="60%" 
+    alt="Most Used Languages">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leta-Kasahun&layout=donut-vertical&theme=radical&hide=html&hide_border=true)
 
 📊 Coding  Activity Graph
 
