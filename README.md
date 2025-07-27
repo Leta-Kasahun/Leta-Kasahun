@@ -110,7 +110,7 @@
  💻 Most Used Languages 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leta-Kasahun&hide=html,css&layout=donut-vertical&theme=radical&hide_border=true&langs_count=6" width="60%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leta-Kasahun&layout=donut-vertical&theme=radical&hide_border=true width="60%">
 </p> 
 
 
