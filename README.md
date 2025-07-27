@@ -99,25 +99,14 @@
 ![](https://github-readme-stats.vercel.app/api?username=Leta-Kasahun&theme=cobalt&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Leta-Kasahun&theme=cobalt&hide_border=false)<br/>
 
-🧠 GitHub Contribution Radar & Profile Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leta-Kasahun&theme=radical" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Leta-Kasahun&theme=radical" alt="Productive Time" />
-</p>
-<!-- Weekly Activity -->
 
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
  💻 Most Used Languages 
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leta-Kasahun&langs_count=6&layout=donut-vertical&theme=radical&hide_border=true" 
-    width="60%" 
-    alt="Most Used Languages">
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leta-Kasahun&layout=donut-vertical&theme=radical&hide=html&hide_border=true)
+
 📊 Coding  Activity Graph
 
 <p align="center">
