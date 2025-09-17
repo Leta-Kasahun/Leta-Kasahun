@@ -20,12 +20,12 @@
 ---
 🌱About Me
 
-🎓 Software Engineering Student @ DBU
-💻 Focusing on Full-Stack Development (MERN)
-💡 Ask me about: Python | JavaScript
-📂 Portfolio: leta-kasahun.vercel.app
-📫 Email: letakasahun2@gmail.com
-😄 Pronouns: He/Him
+🎓 Software Engineering Student @ DBU <br/>
+💻 Focusing on Full-Stack Development (MERN)<br/>
+💡 Ask me about: Python | JavaScript<br/>
+📂 Portfolio: leta-kasahun.vercel.app<br/>
+📫 Email: letakasahun2@gmail.com<br/>
+😄 Pronouns: He/Him<br/>
 ⚡ Fun Fact: I enjoy turning ideas into code and building projects that inspire 🇪🇹
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
  🌐 Connect With Me:
