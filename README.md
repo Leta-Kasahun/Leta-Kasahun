@@ -20,13 +20,18 @@
 ---
 🌱About Me
 
-🎓 Software Engineering Student @ DBU <br/>
-💻 Focusing on Full-Stack Development (MERN)<br/>
-💡 Ask me about: Python | JavaScript<br/>
-📂 Portfolio: leta-kasahun.vercel.app<br/>
-📫 Email: letakasahun2@gmail.com<br/>
-😄 Pronouns: He/Him<br/>
-⚡ Fun Fact: I enjoy turning ideas into code and building projects that inspire 🇪🇹
+### 🎓 About Me  
+
+- 🎓 Software Engineering Student @ DBU  
+- 💻 Focusing on Full-Stack Development (MERN)  
+- 💡 Ask me about: **Python | JavaScript**  
+- 📫 Email: **letakasahun2@gmail.com**  
+[![Portfolio](https://img.shields.io/badge/Portfolio-leta--kasahun.vercel.app-blue?style=for-the-badge&logo=vercel)](https://leta-kasahun.vercel.app)
+- 😄 Pronouns: He/Him  
+
+
+- ⚡ Fun Fact: I enjoy turning ideas into code and building projects that inspire 🇪🇹  
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
  🌐 Connect With Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leta_kasahun) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leta-kasahun) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Lkasahun) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:letakasahun2@gmail.com) 
