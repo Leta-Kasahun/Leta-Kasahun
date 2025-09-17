@@ -17,21 +17,15 @@
 
 [![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Leta-Kasahun.Leta-Kasahun&style=for-the-badge&logo=github&label=Profile%20Views&labelColor=1F222E&color=00F7A5)](https://github.com/Leta-Kasahun)  
 
----
-🌱About Me
+## 🌱 About Me
 
-### 🎓 About Me  
-
- 🎓 Software Engineering Student @ DBU  <br/>
-  💻 Focusing on Full-Stack Development (MERN) <br/>  
-  💡 Ask me about: **Python | JavaScript**   <br/>
-  📫 Email: **letakasahun2@gmail.com** <br/>
-  [![Portfolio](https://img.shields.io/badge/Portfolio-leta--kasahun.vercel.app-blue?style=for-the-badge&logo=vercel)](https://leta-kasahun.vercel.app)  <br/>
- 😄 Pronouns: He/Him   <br/>
-
-
- ⚡ Fun Fact: I enjoy turning ideas into code and building projects that inspire 🇪🇹  
-
+*   🎓 Software Engineering Student @ DBU
+*   💻 Focusing on Full-Stack Development (MERN)
+*   💡 Ask me about: **Python** | **JavaScript**
+*   📫 How to reach me: **letakasahun2@gmail.com**
+*   🌐 Portfolio: [leta-kasahun.vercel.app](https://leta-kasahun.vercel.app)
+*   😄 Pronouns: He/Him
+*   ⚡ Fun Fact: I enjoy turning ideas into code and building projects that inspire 🇪🇹
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
  🌐 Connect With Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leta_kasahun) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leta-kasahun) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Lkasahun) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:letakasahun2@gmail.com) 
