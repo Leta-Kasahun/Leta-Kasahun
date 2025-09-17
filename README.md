@@ -22,15 +22,15 @@
 
 ### 🎓 About Me  
 
-- 🎓 Software Engineering Student @ DBU  
-- 💻 Focusing on Full-Stack Development (MERN)  
-- 💡 Ask me about: **Python | JavaScript**  
-- 📫 Email: **letakasahun2@gmail.com**  
-[![Portfolio](https://img.shields.io/badge/Portfolio-leta--kasahun.vercel.app-blue?style=for-the-badge&logo=vercel)](https://leta-kasahun.vercel.app)
-- 😄 Pronouns: He/Him  
+ 🎓 Software Engineering Student @ DBU  <br/>
+  💻 Focusing on Full-Stack Development (MERN) <br/>  
+  💡 Ask me about: **Python | JavaScript**   <br/>
+  📫 Email: **letakasahun2@gmail.com** <br/>
+  [![Portfolio](https://img.shields.io/badge/Portfolio-leta--kasahun.vercel.app-blue?style=for-the-badge&logo=vercel)](https://leta-kasahun.vercel.app)  <br/>
+ 😄 Pronouns: He/Him   <br/>
 
 
-- ⚡ Fun Fact: I enjoy turning ideas into code and building projects that inspire 🇪🇹  
+ ⚡ Fun Fact: I enjoy turning ideas into code and building projects that inspire 🇪🇹  
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
  🌐 Connect With Me:
