@@ -1,21 +1,17 @@
-
 <h1 align="center" style="font-size: 2.5em;">
   ✨ Welcome to My GitHub Universe! ✨
 </h1>
 
-
-
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=4682B4&center=true&vCenter=true&width=1000&lines=👋+Hi+there!+I'm+Leta+Kasahun;🚀+Passionate+Software+Engineer+from+Ethiopia+🇪🇹;💻+Crafting+scalable+web+%26+mobile+apps+with+clean+code;🌱+Growing+through+open-source+%26+continuous+learning;🔥+Turning+ideas+into+impact+with+tech." 
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=4682B4&center=true&vCenter=true&width=1000&lines=👋+Hi+there!+I'm+Leta+Kasahun;🚀+Passionate+Software+Engineer+%7C+Web+Developer"
     alt="Animated Introduction">
 </p>
 
-
- 🌟 Achievements
+🌟 Achievements  
 ![](https://github-profile-trophy.vercel.app/?username=Leta-Kasahun&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
 
-[![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Leta-Kasahun.Leta-Kasahun&style=for-the-badge&logo=github&label=Profile%20Views&labelColor=1F222E&color=00F7A5)](https://github.com/Leta-Kasahun)  
+[![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Leta-Kasahun.Leta-Kasahun&style=for-the-badge&logo=github&label=Profile%20Views&labelColor=1F222E&color=00F7A5)](https://github.com/Leta-Kasahun)
 
 ## 🌱 About Me
 
@@ -27,11 +23,9 @@
 *   😄 Pronouns: He/Him
 *   ⚡ Fun Fact: I enjoy turning ideas into code and building projects that inspire 🇪🇹
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
- 🌐 Connect With Me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leta_kasahun) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leta-kasahun) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Lkasahun) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:letakasahun2@gmail.com) 
 
-
-
+🌐 Connect With Me:  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leta_kasahun) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/leta-kasahun)
 
 💻 Technical Skills
 <!-- Animated line above (SVG) -->
@@ -42,8 +36,8 @@
   <!-- VS Code -->
   <img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" width="96" height="96" alt="VS Code" style="margin: 0 24px;" />
 
-  <!-- Postman -->
-  <img src="https://img.icons8.com/color/96/000000/postman-api.png" width="96" height="96" alt="Postman" style="margin: 0 24px;" />
+  <!-- Postman (workable) -->
+  <img src="https://img.icons8.com/fluency/96/postman-api.png" width="96" height="96" alt="Postman API" style="margin: 0 24px;" />
 
   <!-- Git -->
   <img src="https://img.icons8.com/color/96/000000/git.png" width="96" height="96" alt="Git" style="margin: 0 24px;" />
@@ -75,8 +69,8 @@
   <!-- MongoDB -->
   <img src="https://img.icons8.com/color/96/000000/mongodb.png" width="96" height="96" alt="MongoDB" style="margin: 0 24px;" />
 
-  <!-- PostgreSQL -->
-  <img src="https://img.icons8.com/color/96/000000/postgresql.png" width="96" height="96" alt="PostgreSQL" style="margin: 0 24px;" />
+  <!-- PostgreSQL (workable) -->
+  <img src="https://img.icons8.com/fluency/96/postgresql.png" width="96" height="96" alt="PostgreSQL" style="margin: 0 24px;" />
 
   <!-- Canva -->
   <img src="https://img.icons8.com/color/96/000000/canva.png" width="96" height="96" alt="Canva" style="margin: 0 24px;" />
@@ -89,9 +83,6 @@
 
   <!-- AWS -->
   <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" width="96" height="96" alt="AWS" style="margin: 0 24px;" />
-
-  <!-- Rendering (custom/non-official icon) -->
-  <img src="https://img.icons8.com/color/96/000000/rendering.png" width="96" height="96" alt="Rendering" style="margin: 0 24px;" />
 
   <!-- Visual Paradigm (custom/non-official icon) -->
   <img src="https://img.icons8.com/color/96/000000/flow-chart.png" width="96" height="96" alt="Visual Paradigm" style="margin: 0 24px;" />
@@ -115,33 +106,27 @@
 
 <hr>
 
-
-
-
-  📊 GitHub Stats:
-  <br>
+📊 GitHub Stats:
+<br>
 ![](https://github-readme-stats.vercel.app/api?username=Leta-Kasahun&theme=cobalt&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Leta-Kasahun&theme=cobalt&hide_border=false)<br/>
 
-
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
- 💻 Most Used Languages 
+💻 Most Used Languages 
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leta-Kasahun&langs_count=10&layout=donut-vertical&theme=radical&hide_border=false"
     width="60%" 
     alt="Most Used Languages">
+</p>
 
-
-📊 Coding  Activity Graph
+📊 Coding Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leta-Kasahun&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph&color=58A6FF&line=1F6FEB&point=1F6FEB" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leta-Kasahun&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph&color=58A6FF&line=1F6FEB&point=F8D866" alt="Contribution Graph">
 </p>
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=500&color=00F7A5&center=true&vCenter=true&width=900&lines=🙏+Thanks+for+scrolling+through+my+profile!;👋+Goodbye+for+now+—+see+you+around!;💬+Let's+connect+and+build+something+amazing+together." 
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=500&color=00F7A5&center=true&vCenter=true&width=900&lines=🙏+Thanks+for+scrolling+through+my+profile!;👋+Goodbye!"
     alt="Goodbye Typing SVG">
 </p>
