@@ -35,106 +35,88 @@
 
 💻 Technical Skills
 <!-- Animated line above (SVG) -->
-<p align="center">
-  <svg height="8" width="300">
-    <rect width="300" height="8" fill="url(#grad1)">
-    </rect>
-    <defs>
-      <linearGradient id="grad1" x1="0%" y1="50%" x2="100%" y2="50%">
-        <stop offset="0%" style="stop-color:#00c6ff;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#0072ff;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-  </svg>
-</p>
+<hr>
 
-<!-- Diamond arrangement of skill icons -->
 <div align="center">
-  <table>
-    <tr>
-      <td></td>
-      <td>
-        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-      </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-        <img src="https://img.shields.io/badge/Rendering-FF9800?style=for-the-badge" />
-      </td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>
-        <img src="https://img.shields.io/badge/Visual%20Paradigm-FF6600?style=for-the-badge" />
-      </td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-      </td>
-    </tr>
-  </table>
+
+  <!-- VS Code -->
+  <img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" width="96" height="96" alt="VS Code" style="margin: 0 24px;" />
+
+  <!-- Postman -->
+  <img src="https://img.icons8.com/color/96/000000/postman-api.png" width="96" height="96" alt="Postman" style="margin: 0 24px;" />
+
+  <!-- Git -->
+  <img src="https://img.icons8.com/color/96/000000/git.png" width="96" height="96" alt="Git" style="margin: 0 24px;" />
+
+  <!-- GitHub -->
+  <img src="https://img.icons8.com/material-outlined/96/000000/github.png" width="96" height="96" alt="GitHub" style="margin: 0 24px;" />
+
+  <!-- Tailwind CSS -->
+  <img src="https://img.icons8.com/color/96/000000/tailwindcss.png" width="96" height="96" alt="Tailwind CSS" style="margin: 0 24px;" />
+
+  <!-- React -->
+  <img src="https://img.icons8.com/color/96/000000/react-native.png" width="96" height="96" alt="React" style="margin: 0 24px;" />
+
+  <!-- Next.js (no official, using generic web icon) -->
+  <img src="https://img.icons8.com/ios-filled/96/000000/internet.png" width="96" height="96" alt="Next.js" style="margin: 0 24px;" />
+
+  <!-- JavaScript -->
+  <img src="https://img.icons8.com/color/96/000000/javascript.png" width="96" height="96" alt="JavaScript" style="margin: 0 24px;" />
+
+  <!-- Java -->
+  <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" width="96" height="96" alt="Java" style="margin: 0 24px;" />
+
+  <!-- Python -->
+  <img src="https://img.icons8.com/color/96/000000/python.png" width="96" height="96" alt="Python" style="margin: 0 24px;" />
+
+  <!-- Oracle -->
+  <img src="https://img.icons8.com/color/96/000000/oracle-logo.png" width="96" height="96" alt="Oracle" style="margin: 0 24px;" />
+
+  <!-- MongoDB -->
+  <img src="https://img.icons8.com/color/96/000000/mongodb.png" width="96" height="96" alt="MongoDB" style="margin: 0 24px;" />
+
+  <!-- PostgreSQL -->
+  <img src="https://img.icons8.com/color/96/000000/postgresql.png" width="96" height="96" alt="PostgreSQL" style="margin: 0 24px;" />
+
+  <!-- Canva -->
+  <img src="https://img.icons8.com/color/96/000000/canva.png" width="96" height="96" alt="Canva" style="margin: 0 24px;" />
+
+  <!-- Vercel (no official, using cloud icon) -->
+  <img src="https://img.icons8.com/ios-filled/96/000000/cloud.png" width="96" height="96" alt="Vercel" style="margin: 0 24px;" />
+
+  <!-- Netlify -->
+  <img src="https://img.icons8.com/color/96/000000/netlify.png" width="96" height="96" alt="Netlify" style="margin: 0 24px;" />
+
+  <!-- AWS -->
+  <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" width="96" height="96" alt="AWS" style="margin: 0 24px;" />
+
+  <!-- Rendering (custom/non-official icon) -->
+  <img src="https://img.icons8.com/color/96/000000/rendering.png" width="96" height="96" alt="Rendering" style="margin: 0 24px;" />
+
+  <!-- Visual Paradigm (custom/non-official icon) -->
+  <img src="https://img.icons8.com/color/96/000000/flow-chart.png" width="96" height="96" alt="Visual Paradigm" style="margin: 0 24px;" />
+
+  <!-- C++ -->
+  <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" width="96" height="96" alt="C++" style="margin: 0 24px;" />
+
+  <!-- CSS -->
+  <img src="https://img.icons8.com/color/96/000000/css3.png" width="96" height="96" alt="CSS" style="margin: 0 24px;" />
+
+  <!-- HTML -->
+  <img src="https://img.icons8.com/color/96/000000/html-5.png" width="96" height="96" alt="HTML" style="margin: 0 24px;" />
+
+  <!-- Express (no official, using server icon) -->
+  <img src="https://img.icons8.com/ios-filled/96/000000/server.png" width="96" height="96" alt="Express" style="margin: 0 24px;" />
+
+  <!-- Node.js -->
+  <img src="https://img.icons8.com/color/96/000000/nodejs.png" width="96" height="96" alt="Node.js" style="margin: 0 24px;" />
+
 </div>
 
-<!-- Animated line below (SVG) -->
-<p align="center">
-  <svg height="8" width="300">
-    <rect width="300" height="8" fill="url(#grad2)">
-    </rect>
-    <defs>
-      <linearGradient id="grad2" x1="0%" y1="50%" x2="100%" y2="50%">
-        <stop offset="0%" style="stop-color:#00c6ff;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#0072ff;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-  </svg>
-</p>
+<hr>
+
+
+
 
   📊 GitHub Stats:
   <br>
