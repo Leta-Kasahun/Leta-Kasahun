@@ -36,11 +36,12 @@
   <!-- VS Code -->
   <img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" width="96" height="96" alt="VS Code" style="margin: 0 24px;" />
 
-  <!-- Postman -->
-  <img src="https://img.icons8.com/color/96/postman.png" width="96" height="96" alt="Postman API" style="margin: 0 24px;" />
+  <!-- Postman (official icon) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="96" height="96" alt="Postman API" style="margin: 0 24px;" />
 
-  <!-- PostgreSQL -->
-  <img src="https://img.icons8.com/color/96/postgresql.png" width="96" height="96" alt="PostgreSQL" style="margin: 0 24px;" />
+  <!-- PostgreSQL (official icon) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="96" height="96" alt="PostgreSQL" style="margin: 0 24px;" />
+
   <!-- Git -->
   <img src="https://img.icons8.com/color/96/000000/git.png" width="96" height="96" alt="Git" style="margin: 0 24px;" />
 
@@ -53,7 +54,7 @@
   <!-- React -->
   <img src="https://img.icons8.com/color/96/000000/react-native.png" width="96" height="96" alt="React" style="margin: 0 24px;" />
 
-  <!-- Next.js (no official, using generic web icon) -->
+  <!-- Next.js -->
   <img src="https://img.icons8.com/ios-filled/96/000000/internet.png" width="96" height="96" alt="Next.js" style="margin: 0 24px;" />
 
   <!-- JavaScript -->
@@ -71,11 +72,10 @@
   <!-- MongoDB -->
   <img src="https://img.icons8.com/color/96/000000/mongodb.png" width="96" height="96" alt="MongoDB" style="margin: 0 24px;" />
 
- 
   <!-- Canva -->
   <img src="https://img.icons8.com/color/96/000000/canva.png" width="96" height="96" alt="Canva" style="margin: 0 24px;" />
 
-  <!-- Vercel (no official, using cloud icon) -->
+  <!-- Vercel -->
   <img src="https://img.icons8.com/ios-filled/96/000000/cloud.png" width="96" height="96" alt="Vercel" style="margin: 0 24px;" />
 
   <!-- Netlify -->
@@ -84,7 +84,7 @@
   <!-- AWS -->
   <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" width="96" height="96" alt="AWS" style="margin: 0 24px;" />
 
-  <!-- Visual Paradigm (custom/non-official icon) -->
+  <!-- Visual Paradigm -->
   <img src="https://img.icons8.com/color/96/000000/flow-chart.png" width="96" height="96" alt="Visual Paradigm" style="margin: 0 24px;" />
 
   <!-- C++ -->
@@ -96,13 +96,14 @@
   <!-- HTML -->
   <img src="https://img.icons8.com/color/96/000000/html-5.png" width="96" height="96" alt="HTML" style="margin: 0 24px;" />
 
-  <!-- Express (no official, using server icon) -->
+  <!-- Express -->
   <img src="https://img.icons8.com/ios-filled/96/000000/server.png" width="96" height="96" alt="Express" style="margin: 0 24px;" />
 
   <!-- Node.js -->
   <img src="https://img.icons8.com/color/96/000000/nodejs.png" width="96" height="96" alt="Node.js" style="margin: 0 24px;" />
 
 </div>
+
 
 <hr>
 
