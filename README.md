@@ -34,122 +34,107 @@
 
 
 💻 Technical Skills
+<!-- Animated line above (SVG) -->
+<p align="center">
+  <svg height="8" width="300">
+    <rect width="300" height="8" fill="url(#grad1)">
+    </rect>
+    <defs>
+      <linearGradient id="grad1" x1="0%" y1="50%" x2="100%" y2="50%">
+        <stop offset="0%" style="stop-color:#00c6ff;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#0072ff;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+  </svg>
+</p>
+
+<!-- Diamond arrangement of skill icons -->
 <div align="center">
-
-<!-- Animated Top Line -->
-<div style="width: 80%; height: 4px; background: linear-gradient(90deg, #ff7e5f, #feb47b, #ff7e5f); background-size: 200% auto; animation: gradientMove 3s linear infinite; margin-bottom: 40px;"></div>
-
-<style>
-@keyframes gradientMove {
-    0% {background-position: 0%;}
-    100% {background-position: 200%;}
-}
-</style>
-
-<!-- Diamond Skills -->
-<div style="display: grid; grid-template-columns: repeat(7, 80px); gap: 25px; justify-content: center; align-items: center;">
-
-<!-- Row 1 -->
-<div></div><div></div>
-<div style="display: flex; justify-content: center; align-items: center; width: 80px; height: 80px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" style="width:70px;height:70px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-</div>
-<div></div><div></div><div></div><div></div>
-
-<!-- Row 2 -->
-<div></div>
-<div style="display: flex; justify-content: center; align-items: center; width: 80px; height: 80px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" style="width:70px;height:70px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-</div>
-<div style="display: flex; justify-content: center; align-items: center; width: 80px; height: 80px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" style="width:70px;height:70px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-</div>
-<div style="display: flex; justify-content: center; align-items: center; width: 80px; height: 80px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" style="width:70px;height:70px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-</div>
-<div style="display: flex; justify-content: center; align-items: center; width: 80px; height: 80px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" style="width:70px;height:70px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-</div>
-<div></div><div></div>
-
-<!-- Row 3 -->
-<div style="display: flex; justify-content: center; align-items: center; width: 80px; height: 80px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" style="width:70px;height:70px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-</div>
-<div style="display: flex; justify-content: center; align-items: center; width: 80px; height: 80px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" style="width:70px;height:70px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-</div>
-<div style="display: flex; justify-content: center; align-items: center; width: 80px; height: 80px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" style="width:70px;height:70px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-</div>
-<div style="display: flex; justify-content: center; align-items: center; width: 80px; height: 80px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" style="width:70px;height:70px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-</div>
-<div style="display: flex; justify-content: center; align-items: center; width: 80px; height: 80px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" style="width:70px;height:70px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-</div>
-<div></div><div></div>
-
-<!-- Row 4 -->
-<div></div>
-<div style="display: flex; justify-content: center; align-items: center; width: 80px; height: 80px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle" style="width:70px;height:70px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-</div>
-<div style="display: flex; justify-content: center; align-items: center; width: 80px; height: 80px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" style="width:70px;height:70px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-</div>
-<div style="display: flex; justify-content: center; align-items: center; width: 80px; height: 80px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" style="width:70px;height:70px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-</div>
-<div style="display: flex; justify-content: center; align-items: center; width: 80px; height: 80px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" title="Canva" style="width:70px;height:70px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-</div>
-<div style="display: flex; justify-content: center; align-items: center; width: 80px; height: 80px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel.svg" title="Vercel" style="width:70px;height:70px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-</div>
-<div></div>
-
-<!-- Row 5 -->
-<div></div><div></div>
-<div style="display: flex; justify-content: center; align-items: center; width: 80px; height: 80px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" title="Netlify" style="width:70px;height:70px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-</div>
-<div style="display: flex; justify-content: center; align-items: center; width: 80px; height: 80px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" style="width:70px;height:70px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-</div>
-<div style="display: flex; justify-content: center; align-items: center; width: 80px; height: 80px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/render/render.svg" title="Render" style="width:70px;height:70px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-</div>
-<div style="display: flex; justify-content: center; align-items: center; width: 80px; height: 80px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" style="width:70px;height:70px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-</div>
-<div></div><div></div>
-
-<!-- Row 6 -->
-<div></div><div></div><div></div>
-<div style="display: flex; justify-content: center; align-items: center; width: 80px; height: 80px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" style="width:70px;height:70px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-</div>
-<div style="display: flex; justify-content: center; align-items: center; width: 80px; height: 80px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" style="width:70px;height:70px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-</div>
-<div style="display: flex; justify-content: center; align-items: center; width: 80px; height: 80px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" style="width:70px;height:70px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-</div>
-<div style="display: flex; justify-content: center; align-items: center; width: 80px; height: 80px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" style="width:70px;height:70px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-</div>
-<div style="display: flex; justify-content: center; align-items: center; width: 80px; height: 80px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" style="width:70px;height:70px; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-</div>
-<div></div>
-
+  <table>
+    <tr>
+      <td></td>
+      <td>
+        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Rendering-FF9800?style=for-the-badge" />
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <img src="https://img.shields.io/badge/Visual%20Paradigm-FF6600?style=for-the-badge" />
+      </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<!-- Bottom Static Line -->
-<div style="width: 80%; height: 4px; background: #333; margin-top: 40px;"></div>
-
-</div>
+<!-- Animated line below (SVG) -->
+<p align="center">
+  <svg height="8" width="300">
+    <rect width="300" height="8" fill="url(#grad2)">
+    </rect>
+    <defs>
+      <linearGradient id="grad2" x1="0%" y1="50%" x2="100%" y2="50%">
+        <stop offset="0%" style="stop-color:#00c6ff;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#0072ff;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+  </svg>
+</p>
 
   📊 GitHub Stats:
   <br>
