@@ -30,102 +30,78 @@
 💻 Technical Skills
 <!-- Animated line above (SVG) -->
 <hr>
-<!-- Top Animated Horizontal Line -->
-<div class="w-full h-1 bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 animate-marquee mb-8"></div>
-
-<!-- Icon Grid -->
-<div class="flex flex-wrap justify-center items-center gap-8 p-8 bg-gray-50">
+<div align="center">
 
   <!-- VS Code -->
-  <img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" alt="VS Code" class="icon" />
+  <img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" width="96" height="96" alt="VS Code" style="margin: 0 24px;" />
 
-  <!-- Postman -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman API" class="icon" />
+  <!-- Postman (official icon) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="96" height="96" alt="Postman API" style="margin: 0 24px;" />
 
-  <!-- PostgreSQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" class="icon" />
+  <!-- PostgreSQL (official icon) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="96" height="96" alt="PostgreSQL" style="margin: 0 24px;" />
 
   <!-- Git -->
-  <img src="https://img.icons8.com/color/96/000000/git.png" alt="Git" class="icon" />
+  <img src="https://img.icons8.com/color/96/000000/git.png" width="96" height="96" alt="Git" style="margin: 0 24px;" />
 
   <!-- GitHub -->
-  <img src="https://img.icons8.com/material-outlined/96/000000/github.png" alt="GitHub" class="icon" />
+  <img src="https://img.icons8.com/material-outlined/96/000000/github.png" width="96" height="96" alt="GitHub" style="margin: 0 24px;" />
 
   <!-- Tailwind CSS -->
-  <img src="https://img.icons8.com/color/96/000000/tailwindcss.png" alt="Tailwind CSS" class="icon" />
+  <img src="https://img.icons8.com/color/96/000000/tailwindcss.png" width="96" height="96" alt="Tailwind CSS" style="margin: 0 24px;" />
 
   <!-- React -->
-  <img src="https://img.icons8.com/color/96/000000/react-native.png" alt="React" class="icon" />
+  <img src="https://img.icons8.com/color/96/000000/react-native.png" width="96" height="96" alt="React" style="margin: 0 24px;" />
 
   <!-- Next.js -->
-  <img src="https://img.icons8.com/ios-filled/96/000000/internet.png" alt="Next.js" class="icon" />
+  <img src="https://img.icons8.com/ios-filled/96/000000/internet.png" width="96" height="96" alt="Next.js" style="margin: 0 24px;" />
 
   <!-- JavaScript -->
-  <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript" class="icon" />
+  <img src="https://img.icons8.com/color/96/000000/javascript.png" width="96" height="96" alt="JavaScript" style="margin: 0 24px;" />
 
   <!-- Java -->
-  <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="Java" class="icon" />
+  <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" width="96" height="96" alt="Java" style="margin: 0 24px;" />
 
   <!-- Python -->
-  <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python" class="icon" />
+  <img src="https://img.icons8.com/color/96/000000/python.png" width="96" height="96" alt="Python" style="margin: 0 24px;" />
 
   <!-- Oracle -->
-  <img src="https://img.icons8.com/color/96/000000/oracle-logo.png" alt="Oracle" class="icon" />
+  <img src="https://img.icons8.com/color/96/000000/oracle-logo.png" width="96" height="96" alt="Oracle" style="margin: 0 24px;" />
 
   <!-- MongoDB -->
-  <img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="MongoDB" class="icon" />
+  <img src="https://img.icons8.com/color/96/000000/mongodb.png" width="96" height="96" alt="MongoDB" style="margin: 0 24px;" />
 
   <!-- Canva -->
-  <img src="https://img.icons8.com/color/96/000000/canva.png" alt="Canva" class="icon" />
+  <img src="https://img.icons8.com/color/96/000000/canva.png" width="96" height="96" alt="Canva" style="margin: 0 24px;" />
 
   <!-- Vercel -->
-  <img src="https://img.icons8.com/ios-filled/96/000000/cloud.png" alt="Vercel" class="icon" />
+  <img src="https://img.icons8.com/ios-filled/96/000000/cloud.png" width="96" height="96" alt="Vercel" style="margin: 0 24px;" />
 
   <!-- Netlify -->
-  <img src="https://img.icons8.com/color/96/000000/netlify.png" alt="Netlify" class="icon" />
+  <img src="https://img.icons8.com/color/96/000000/netlify.png" width="96" height="96" alt="Netlify" style="margin: 0 24px;" />
 
   <!-- AWS -->
-  <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" alt="AWS" class="icon" />
+  <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" width="96" height="96" alt="AWS" style="margin: 0 24px;" />
 
   <!-- Visual Paradigm -->
-  <img src="https://img.icons8.com/color/96/000000/flow-chart.png" alt="Visual Paradigm" class="icon" />
+  <img src="https://img.icons8.com/color/96/000000/flow-chart.png" width="96" height="96" alt="Visual Paradigm" style="margin: 0 24px;" />
 
   <!-- C++ -->
-  <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" alt="C++" class="icon" />
+  <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" width="96" height="96" alt="C++" style="margin: 0 24px;" />
 
   <!-- CSS -->
-  <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS" class="icon" />
+  <img src="https://img.icons8.com/color/96/000000/css3.png" width="96" height="96" alt="CSS" style="margin: 0 24px;" />
 
   <!-- HTML -->
-  <img src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML" class="icon" />
+  <img src="https://img.icons8.com/color/96/000000/html-5.png" width="96" height="96" alt="HTML" style="margin: 0 24px;" />
 
   <!-- Express -->
-  <img src="https://img.icons8.com/ios-filled/96/000000/server.png" alt="Express" class="icon" />
+  <img src="https://img.icons8.com/ios-filled/96/000000/server.png" width="96" height="96" alt="Express" style="margin: 0 24px;" />
 
   <!-- Node.js -->
-  <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="Node.js" class="icon" />
+  <img src="https://img.icons8.com/color/96/000000/nodejs.png" width="96" height="96" alt="Node.js" style="margin: 0 24px;" />
 
 </div>
-
-<!-- Bottom Static Horizontal Line -->
-<div class="w-full h-1 bg-gray-300 mt-8"></div>
-
-<!-- Styles -->
-<style>
-.icon {
-  width: 96px;
-  height: 96px;
-}
-
-@keyframes marquee {
-  0% {background-position: 0%;}
-  100% {background-position: 200%;}
-}
-
-.animate-marquee {
-  animation: marquee 3s linear infinite;
-}
-</style>
 
 <hr>
 
