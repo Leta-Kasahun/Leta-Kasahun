@@ -30,79 +30,86 @@
 💻 Technical Skills
 <!-- Animated line above (SVG) -->
 <hr>
+<!-- Top Animated Horizontal Line -->
+<div class="w-full h-1 bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 animate-pulse mb-8"></div>
 
-<div align="center">
+<!-- Icon Grid -->
+<div class="flex flex-wrap justify-center items-center gap-8 p-8 bg-gray-50">
 
-  <!-- VS Code -->
-  <img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" width="96" height="96" alt="VS Code" style="margin: 0 24px;" />
-
-  <!-- Postman (official icon) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="96" height="96" alt="Postman API" style="margin: 0 24px;" />
-
-  <!-- PostgreSQL (official icon) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="96" height="96" alt="PostgreSQL" style="margin: 0 24px;" />
-
-  <!-- Git -->
-  <img src="https://img.icons8.com/color/96/000000/git.png" width="96" height="96" alt="Git" style="margin: 0 24px;" />
-
-  <!-- GitHub -->
-  <img src="https://img.icons8.com/material-outlined/96/000000/github.png" width="96" height="96" alt="GitHub" style="margin: 0 24px;" />
-
-  <!-- Tailwind CSS -->
-  <img src="https://img.icons8.com/color/96/000000/tailwindcss.png" width="96" height="96" alt="Tailwind CSS" style="margin: 0 24px;" />
-
-  <!-- React -->
-  <img src="https://img.icons8.com/color/96/000000/react-native.png" width="96" height="96" alt="React" style="margin: 0 24px;" />
-
-  <!-- Next.js -->
-  <img src="https://img.icons8.com/ios-filled/96/000000/internet.png" width="96" height="96" alt="Next.js" style="margin: 0 24px;" />
-
-  <!-- JavaScript -->
-  <img src="https://img.icons8.com/color/96/000000/javascript.png" width="96" height="96" alt="JavaScript" style="margin: 0 24px;" />
-
-  <!-- Java -->
-  <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" width="96" height="96" alt="Java" style="margin: 0 24px;" />
-
-  <!-- Python -->
-  <img src="https://img.icons8.com/color/96/000000/python.png" width="96" height="96" alt="Python" style="margin: 0 24px;" />
-
-  <!-- Oracle -->
-  <img src="https://img.icons8.com/color/96/000000/oracle-logo.png" width="96" height="96" alt="Oracle" style="margin: 0 24px;" />
-
-  <!-- MongoDB -->
-  <img src="https://img.icons8.com/color/96/000000/mongodb.png" width="96" height="96" alt="MongoDB" style="margin: 0 24px;" />
-
-  <!-- Canva -->
-  <img src="https://img.icons8.com/color/96/000000/canva.png" width="96" height="96" alt="Canva" style="margin: 0 24px;" />
-
-  <!-- Vercel -->
-  <img src="https://img.icons8.com/ios-filled/96/000000/cloud.png" width="96" height="96" alt="Vercel" style="margin: 0 24px;" />
-
-  <!-- Netlify -->
-  <img src="https://img.icons8.com/color/96/000000/netlify.png" width="96" height="96" alt="Netlify" style="margin: 0 24px;" />
-
-  <!-- AWS -->
-  <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" width="96" height="96" alt="AWS" style="margin: 0 24px;" />
-
-  <!-- Visual Paradigm -->
-  <img src="https://img.icons8.com/color/96/000000/flow-chart.png" width="96" height="96" alt="Visual Paradigm" style="margin: 0 24px;" />
-
-  <!-- C++ -->
-  <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" width="96" height="96" alt="C++" style="margin: 0 24px;" />
-
-  <!-- CSS -->
-  <img src="https://img.icons8.com/color/96/000000/css3.png" width="96" height="96" alt="CSS" style="margin: 0 24px;" />
-
-  <!-- HTML -->
-  <img src="https://img.icons8.com/color/96/000000/html-5.png" width="96" height="96" alt="HTML" style="margin: 0 24px;" />
-
-  <!-- Express -->
-  <img src="https://img.icons8.com/ios-filled/96/000000/server.png" width="96" height="96" alt="Express" style="margin: 0 24px;" />
-
-  <!-- Node.js -->
-  <img src="https://img.icons8.com/color/96/000000/nodejs.png" width="96" height="96" alt="Node.js" style="margin: 0 24px;" />
+  <div class="flex justify-center items-center">
+    <img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" alt="VS Code" class="w-24 h-24" />
+  </div>
+  <div class="flex justify-center items-center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman API" class="w-24 h-24" />
+  </div>
+  <div class="flex justify-center items-center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" class="w-24 h-24" />
+  </div>
+  <div class="flex justify-center items-center">
+    <img src="https://img.icons8.com/color/96/000000/git.png" alt="Git" class="w-24 h-24" />
+  </div>
+  <div class="flex justify-center items-center">
+    <img src="https://img.icons8.com/material-outlined/96/000000/github.png" alt="GitHub" class="w-24 h-24" />
+  </div>
+  <div class="flex justify-center items-center">
+    <img src="https://img.icons8.com/color/96/000000/tailwindcss.png" alt="Tailwind CSS" class="w-24 h-24" />
+  </div>
+  <div class="flex justify-center items-center">
+    <img src="https://img.icons8.com/color/96/000000/react-native.png" alt="React" class="w-24 h-24" />
+  </div>
+  <div class="flex justify-center items-center">
+    <img src="https://img.icons8.com/ios-filled/96/000000/internet.png" alt="Next.js" class="w-24 h-24" />
+  </div>
+  <div class="flex justify-center items-center">
+    <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript" class="w-24 h-24" />
+  </div>
+  <div class="flex justify-center items-center">
+    <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="Java" class="w-24 h-24" />
+  </div>
+  <div class="flex justify-center items-center">
+    <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python" class="w-24 h-24" />
+  </div>
+  <div class="flex justify-center items-center">
+    <img src="https://img.icons8.com/color/96/000000/oracle-logo.png" alt="Oracle" class="w-24 h-24" />
+  </div>
+  <div class="flex justify-center items-center">
+    <img src="https://img.icons8.com/color/96/000000/mongodb.png" alt="MongoDB" class="w-24 h-24" />
+  </div>
+  <div class="flex justify-center items-center">
+    <img src="https://img.icons8.com/color/96/000000/canva.png" alt="Canva" class="w-24 h-24" />
+  </div>
+  <div class="flex justify-center items-center">
+    <img src="https://img.icons8.com/ios-filled/96/000000/cloud.png" alt="Vercel" class="w-24 h-24" />
+  </div>
+  <div class="flex justify-center items-center">
+    <img src="https://img.icons8.com/color/96/000000/netlify.png" alt="Netlify" class="w-24 h-24" />
+  </div>
+  <div class="flex justify-center items-center">
+    <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" alt="AWS" class="w-24 h-24" />
+  </div>
+  <div class="flex justify-center items-center">
+    <img src="https://img.icons8.com/color/96/000000/flow-chart.png" alt="Visual Paradigm" class="w-24 h-24" />
+  </div>
+  <div class="flex justify-center items-center">
+    <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" alt="C++" class="w-24 h-24" />
+  </div>
+  <div class="flex justify-center items-center">
+    <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS" class="w-24 h-24" />
+  </div>
+  <div class="flex justify-center items-center">
+    <img src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML" class="w-24 h-24" />
+  </div>
+  <div class="flex justify-center items-center">
+    <img src="https://img.icons8.com/ios-filled/96/000000/server.png" alt="Express" class="w-24 h-24" />
+  </div>
+  <div class="flex justify-center items-center">
+    <img src="https://img.icons8.com/color/96/000000/nodejs.png" alt="Node.js" class="w-24 h-24" />
+  </div>
 
 </div>
+
+<!-- Bottom Static Horizontal Line -->
+<div class="w-full h-1 bg-gray-300 mt-8"></div>
 
 
 <hr>
