@@ -36,9 +36,11 @@
   <!-- VS Code -->
   <img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" width="96" height="96" alt="VS Code" style="margin: 0 24px;" />
 
-  <!-- Postman (workable) -->
-  <img src="https://img.icons8.com/fluency/96/postman-api.png" width="96" height="96" alt="Postman API" style="margin: 0 24px;" />
+  <!-- Postman -->
+  <img src="https://img.icons8.com/color/96/postman.png" width="96" height="96" alt="Postman API" style="margin: 0 24px;" />
 
+  <!-- PostgreSQL -->
+  <img src="https://img.icons8.com/color/96/postgresql.png" width="96" height="96" alt="PostgreSQL" style="margin: 0 24px;" />
   <!-- Git -->
   <img src="https://img.icons8.com/color/96/000000/git.png" width="96" height="96" alt="Git" style="margin: 0 24px;" />
 
@@ -69,9 +71,7 @@
   <!-- MongoDB -->
   <img src="https://img.icons8.com/color/96/000000/mongodb.png" width="96" height="96" alt="MongoDB" style="margin: 0 24px;" />
 
-  <!-- PostgreSQL (workable) -->
-  <img src="https://img.icons8.com/fluency/96/postgresql.png" width="96" height="96" alt="PostgreSQL" style="margin: 0 24px;" />
-
+ 
   <!-- Canva -->
   <img src="https://img.icons8.com/color/96/000000/canva.png" width="96" height="96" alt="Canva" style="margin: 0 24px;" />
 
