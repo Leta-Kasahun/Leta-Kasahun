@@ -35,12 +35,13 @@
 
 💻 Technical Skills
 <!-- Skills Diamond -->
+<!-- Skills Section -->
 <div align="center">
 
-<!-- Animated line above -->
-<img src="https://i.imgur.com/q1h0JkB.gif" alt="animated line" style="width: 80%; margin: 20px 0;">
+<!-- Animated horizontal line (Top) -->
+<img src="https://i.imgur.com/q1h0JkB.gif" alt="animated line" style="width: 80%; margin: 40px 0;">
 
-<!-- Diamond Layout -->
+<!-- Diamond Skills Grid -->
 <div style="display: grid; grid-template-columns: repeat(7, 80px); gap: 20px; justify-content: center; align-items: center;">
 
 <!-- Row 1 -->
@@ -50,7 +51,7 @@
 <div></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" style="width:70px; height:70px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" style="width:70px; height:70px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" style="width:70px; height:70px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" style="width:80px; height:80px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" style="width:70px; height:70px;">
 <div></div><div></div>
 
 <!-- Row 3 -->
@@ -66,14 +67,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" style="width:70px; height:70px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" style="width:70px; height:70px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" title="Canva" style="width:70px; height:70px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel.svg" title="Vercel" style="width:80px; height:80px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel.svg" title="Vercel" style="width:70px; height:70px;">
 <div></div>
 
 <!-- Row 5 -->
 <div></div><div></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" title="Netlify" style="width:70px; height:70px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" style="width:80px; height:80px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" style="width:70px; height:70px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/render/render.svg" title="Rendering" style="width:70px; height:70px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="Visual Paradigm" style="width:70px; height:70px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" style="width:70px; height:70px;">
 <div></div><div></div>
 
 <!-- Row 6 -->
@@ -86,11 +87,10 @@
 
 </div>
 
-<!-- Animated line below -->
-<img src="https://i.imgur.com/q1h0JkB.gif" alt="animated line" style="width: 80%; margin: 20px 0;">
+<!-- Animated horizontal line (Bottom) -->
+<img src="https://i.imgur.com/q1h0JkB.gif" alt="animated line" style="width: 80%; margin: 40px 0;">
 
 </div>
-
 
   📊 GitHub Stats:
   <br>
