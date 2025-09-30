@@ -34,61 +34,61 @@
 
 
 💻 Technical Skills
+<!-- Skills Diamond -->
+<div align="center">
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%"><strong>Programming Languages</strong></td>
-    <td align="center" width="25%"><strong>Frameworks/Libraries</strong></td>
-    <td align="center" width="25%"><strong>Databases</strong></td>
-    <td align="center" width="25%"><strong>Tools & Platforms</strong></td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="110">
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" width="110">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" width="110">
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" width="110">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" width="110">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" width="110">
-      </p>
-    </td>
-    <td valign="top">
-      <p align="center">
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" width="110">
-        <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" width="110">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" width="110">
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" width="110">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" width="110">
-        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" width="110">
-      </p>
-    </td>
-    <td valign="top">
-      <p align="center">
-        <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS SQL" width="110">
-        <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" width="110">
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" width="110">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" width="110">
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" width="110">
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" width="110">
-      </p>
-    </td>
-    <td valign="top">
-      <p align="center">
-        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" width="110">
-        <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" width="110"> 
-                <img src="https://img.shields.io/badge/Visual_Paradigm-FF6600?style=for-the-badge&logo=visual-paradigm&logoColor=white" alt="Visual Paradigm" width="140">
+<!-- Animated line above -->
+<img src="https://i.imgur.com/q1h0JkB.gif" alt="animated line" style="width: 80%; margin: 20px 0;">
 
-  
-     
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" width="110">
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" width="110">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="110">
-      </p>
-    </td>
-  </tr>
-</table> 
+<!-- Diamond Layout -->
+<div style="display: grid; grid-template-columns: repeat(7, 60px); gap: 10px; justify-content: center; align-items: center;">
 
+<!-- Row 1 -->
+<div></div><div></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" style="width:50px;"><div></div><div></div><div></div><div></div>
+
+<!-- Row 2 -->
+<div></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" style="width:50px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" style="width:50px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" style="width:50px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" style="width:50px;"><div></div><div></div>
+
+<!-- Row 3 -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" style="width:50px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" style="width:50px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" style="width:50px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" style="width:50px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" style="width:50px;">
+<div></div><div></div>
+
+<!-- Row 4 -->
+<div></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle" style="width:50px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" style="width:50px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" style="width:50px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" title="Canva" style="width:50px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel.svg" title="Vercel" style="width:50px;">
+<div></div>
+
+<!-- Row 5 -->
+<div></div><div></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" title="Netlify" style="width:50px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" style="width:50px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/render/render.svg" title="Rendering" style="width:50px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="Visual Paradigm" style="width:50px;">
+<div></div><div></div>
+
+<!-- Row 6 -->
+<div></div><div></div><div></div><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" style="width:50px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS" style="width:50px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML" style="width:50px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" style="width:50px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" style="width:50px;">
+<div></div>
+
+</div>
+
+<!-- Animated line below -->
+<img src="https://i.imgur.com/q1h0JkB.gif" alt="animated line" style="width: 80%; margin: 20px 0;">
+
+</div>
 
 
 
