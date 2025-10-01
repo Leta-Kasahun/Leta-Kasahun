@@ -1,6 +1,7 @@
 <h1 align="center" style="font-size: 2.5em;">
   ✨ Welcome to My GitHub Universe! ✨
 </h1>
+<img width="2500" height="1133" alt="image" src="https://github.com/user-attachments/assets/38604128-0092-40e5-bf80-03e4ce47e26f" />
 
 <p align="center">
   <img 
