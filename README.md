@@ -16,7 +16,7 @@
 ## 🌱 About Me
 
 *   🎓 Software Engineering Student @ DBU
-*   💻 Focusing on Full-Stack Development (MERN)
+  
 *   💡 Ask me about: **Python** | **JavaScript**
 *   📫 How to reach me: **letakasahun2@gmail.com**
 *   🌐 Portfolio: [leta-kasahun.vercel.app](https://leta-kasahun.vercel.app)
