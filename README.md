@@ -107,7 +107,7 @@
 
 📊 GitHub Stats:
 <br>
-![](https://github-readme-stats.vercel.app/api?username=Leta-Kasahun&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Leta-Kasahun&theme=cobalt&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Leta-Kasahun&theme=cobalt&hide_border=false)<br/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
@@ -123,7 +123,7 @@
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/teku-Kasahun?theme=dark&font=Noto%20Sans%20Display&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/letakasahun?theme=dark&font=Noto%20Sans%20Display&ext=activity)
 
 </div>
 📊 Coding Activity Graph
