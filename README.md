@@ -117,26 +117,15 @@
 </p>
 
 ---
-
 ## 💡 LeetCode — Live Activity
 
 <div align="center">
   <a href="https://leetcode.com/Leta‑Kasahun">
-    <img src="https://leetcard.jacoblin.cool/Leta‑Kasahun?theme=dark&fontFamily=Inter&bgColor=151515" alt="LeetCode Stats" />
+    <img src="https://leetcode-badge.vercel.app/?username=Leta‑Kasahun&theme=dark&fontFamily=Inter" alt="LeetCode Stats" />
   </a>
 </div>
 
-<!-- LEETCODE_ACTIVITY_START -->
-
-<details>
-<summary>Latest LeetCode Activity</summary>
-
-| Time (UTC)         | Problem           | Lang   | Link                                                |
-|--------------------|-------------------|--------|-----------------------------------------------------|
-| 2025‑10‑30 00:00:00 | Example Problem    | Python | [link](https://leetcode.com/problems/example‑problem/) |
-
-</details>
-
+<!-- LEETCODE_ACTIVITY_START --
 <!-- LEETCODE_ACTIVITY_END -->
 
 ---
