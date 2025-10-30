@@ -15,7 +15,7 @@
   <img
     src="https://github-profile-trophy.vercel.app/?username=Leta-Kasahun&theme=dark&no-bg=false&margin-w=4"
     alt="Achievements"
-    style="max-width:100%;height:auto;filter:grayscale(1) brightness(0.08) contrast(1.05);"
+    style="max-width:100%;height:auto;filter:grayscale(1) brightness(0.02) contrast(1.0);"
   />
 
   <!-- Only the visitor counter directly beneath the trophy -->
@@ -26,21 +26,24 @@
 
 ---
 
-## 🌱 About Me (brief)
+## 🌱 About Me (Brief)
 
 <div align="center" style="font-size:16px;">
   <ul style="list-style: none; padding: 0; line-height: 2;">
     <li>
-      <img src="https://img.icons8.com/ios-filled/20/4682B4/graduation-cap.png" alt="Education" style="vertical-align:middle;"/> 
-      <strong>Education:</strong> Software Engineering Student @ DBU
+      🎓 <strong>Education:</strong> Software Engineering Student @ <b>Debre Berhan University (DBU)</b>
     </li>
     <li>
-      <img src="https://img.icons8.com/ios-filled/20/4682B4/laptop-code.png" alt="Focus" style="vertical-align:middle;"/> 
-      <strong>Focus:</strong> Web & backend development
+      💻 <strong>Focus:</strong> Web & Backend Development | Building Scalable Systems
     </li>
     <li>
-      <img src="https://img.icons8.com/ios-filled/20/4682B4/new-post.png" alt="Email" style="vertical-align:middle;"/> 
-      <strong>Contact:</strong> letakasahun2@gmail.com
+      📧 <strong>Contact:</strong> <a href="mailto:letakasahun2@gmail.com" style="text-decoration:none;color:#4682B4;">letakasahun2@gmail.com</a>
+    </li>
+    <li>
+      🌐 <strong>Portfolio:</strong> <a href="https://leta-kasahun.vercel.app" target="_blank" style="text-decoration:none;color:#00BFFF;">leta-kasahun.vercel.app</a>
+    </li>
+    <li>
+      ⚡ <strong>Fun Fact:</strong> I love turning complex ideas into simple, elegant code — and a great cup of ☕ fuels every project!
     </li>
   </ul>
 </div>
