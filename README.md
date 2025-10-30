@@ -119,7 +119,11 @@
     alt="Most Used Languages">
 </p>
 
+🏆 LeetCode Stats
+<div align="center">
+https://img.shields.io/badge/LeetCode-letakasahun-FFA116?style=for-the-badge&logo=leetcode&logoColor=black
 
+</div>
 📊 Coding Activity Graph
 
 <p align="center">
