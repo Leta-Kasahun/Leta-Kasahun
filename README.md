@@ -1,135 +1,168 @@
-<h1 align="center" style="font-size: 2.5em;">
-  ✨ Welcome to My GitHub Universe! ✨
-</h1>
+# ✨ Welcome to My GitHub Universe! ✨
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=4682B4&center=true&vCenter=true&width=1000&lines=👋+Hi+there!+I'm+Leta+Kasahun;🚀+Passionate+Software+Engineer+%7C+Web+Developer"
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=3000&pause=1000&color=4682B4&center=true&vCenter=true&width=1000&lines=👋+Hi+there!+I'm+Leta+Kasahun;🚀+Passionate+Software+Engineer+in+the+making"
     alt="Animated Introduction">
 </p>
 
-🌟 Achievements  
-![](https://github-profile-trophy.vercel.app/?username=Leta-Kasahun&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
+---
 
-[![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Leta-Kasahun.Leta-Kasahun&style=for-the-badge&logo=github&label=Profile%20Views&labelColor=1F222E&color=00F7A5)](https://github.com/Leta-Kasahun)
+## 🌟 Achievements
 
-## 🌱 About Me
+<div align="center" style="margin-bottom:12px;">
+  <!-- Nearly-black styled trophy (darkened with CSS filter) -->
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Leta-Kasahun&theme=dark&no-bg=false&margin-w=4"
+    alt="Achievements"
+    style="max-width:100%;height:auto;filter:grayscale(1) brightness(0.08) contrast(1.05);"
+  />
 
-*   🎓 Software Engineering Student @ DBU
-  
-*   💡 Ask me about: **Python** | **JavaScript**
-*   📫 How to reach me: **letakasahun2@gmail.com**
-*   🌐 Portfolio: [leta-kasahun.vercel.app](https://leta-kasahun.vercel.app)
-*   😄 Pronouns: He/Him
-*   ⚡ Fun Fact: I enjoy turning ideas into code and building projects that inspire 🇪🇹
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-🌐 Connect With Me:  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leta_kasahun) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/leta-kasahun)
-
-💻 Technical Skills
-<!-- Animated line above (SVG) -->
-<hr>
-<div align="center">
-
-  <!-- VS Code -->
-  <img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" width="96" height="96" alt="VS Code" style="margin: 0 24px;" />
-
-  <!-- Postman (official icon) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="96" height="96" alt="Postman API" style="margin: 0 24px;" />
-
-  <!-- PostgreSQL (official icon) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="96" height="96" alt="PostgreSQL" style="margin: 0 24px;" />
-
-  <!-- Git -->
-  <img src="https://img.icons8.com/color/96/000000/git.png" width="96" height="96" alt="Git" style="margin: 0 24px;" />
-
-  <!-- GitHub -->
-  <img src="https://img.icons8.com/material-outlined/96/000000/github.png" width="96" height="96" alt="GitHub" style="margin: 0 24px;" />
-
-  <!-- Tailwind CSS -->
-  <img src="https://img.icons8.com/color/96/000000/tailwindcss.png" width="96" height="96" alt="Tailwind CSS" style="margin: 0 24px;" />
-
-  <!-- React -->
-  <img src="https://img.icons8.com/color/96/000000/react-native.png" width="96" height="96" alt="React" style="margin: 0 24px;" />
-
-  <!-- Next.js -->
-  <img src="https://img.icons8.com/ios-filled/96/000000/internet.png" width="96" height="96" alt="Next.js" style="margin: 0 24px;" />
-
-  <!-- JavaScript -->
-  <img src="https://img.icons8.com/color/96/000000/javascript.png" width="96" height="96" alt="JavaScript" style="margin: 0 24px;" />
-
-  <!-- Java -->
-  <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" width="96" height="96" alt="Java" style="margin: 0 24px;" />
-
-  <!-- Python -->
-  <img src="https://img.icons8.com/color/96/000000/python.png" width="96" height="96" alt="Python" style="margin: 0 24px;" />
-
-  <!-- Oracle -->
-  <img src="https://img.icons8.com/color/96/000000/oracle-logo.png" width="96" height="96" alt="Oracle" style="margin: 0 24px;" />
-
-  <!-- MongoDB -->
-  <img src="https://img.icons8.com/color/96/000000/mongodb.png" width="96" height="96" alt="MongoDB" style="margin: 0 24px;" />
-
-  <!-- Canva -->
-  <img src="https://img.icons8.com/color/96/000000/canva.png" width="96" height="96" alt="Canva" style="margin: 0 24px;" />
-
-  <!-- Vercel -->
-  <img src="https://img.icons8.com/ios-filled/96/000000/cloud.png" width="96" height="96" alt="Vercel" style="margin: 0 24px;" />
-
-  <!-- Netlify -->
-  <img src="https://img.icons8.com/color/96/000000/netlify.png" width="96" height="96" alt="Netlify" style="margin: 0 24px;" />
-
-  <!-- AWS -->
-  <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" width="96" height="96" alt="AWS" style="margin: 0 24px;" />
-
-  <!-- Visual Paradigm -->
-  <img src="https://img.icons8.com/color/96/000000/flow-chart.png" width="96" height="96" alt="Visual Paradigm" style="margin: 0 24px;" />
-
-  <!-- C++ -->
-  <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" width="96" height="96" alt="C++" style="margin: 0 24px;" />
-
-  <!-- CSS -->
-  <img src="https://img.icons8.com/color/96/000000/css3.png" width="96" height="96" alt="CSS" style="margin: 0 24px;" />
-
-  <!-- HTML -->
-  <img src="https://img.icons8.com/color/96/000000/html-5.png" width="96" height="96" alt="HTML" style="margin: 0 24px;" />
-
-  <!-- Express -->
-  <img src="https://img.icons8.com/ios-filled/96/000000/server.png" width="96" height="96" alt="Express" style="margin: 0 24px;" />
-
-  <!-- Node.js -->
-  <img src="https://img.icons8.com/color/96/000000/nodejs.png" width="96" height="96" alt="Node.js" style="margin: 0 24px;" />
-
+  <!-- Only the visitor counter directly beneath the trophy -->
+  <div style="margin-top:10px;">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Leta-Kasahun.Leta-Kasahun&style=for-the-badge&color=151515" alt="Profile Views" style="height:38px;margin:6px;" />
+  </div>
 </div>
 
-<hr>
+---
 
-📊 GitHub Stats:
-<br>
-![](https://github-readme-stats.vercel.app/api?username=Leta-Kasahun&theme=cobalt&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Leta-Kasahun&theme=cobalt&hide_border=false)<br/>
+## 🌱 About Me (brief)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-💻 Most Used Languages 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leta-Kasahun&langs_count=10&layout=donut-vertical&theme=radical&hide_border=false"
-    width="60%" 
-    alt="Most Used Languages">
-## 💡 LeetCode Stats
-
-<div align="center">
-  [![LeetCode Stats](https://leetcard.jacoblin.cool/Leta-Kasahun?theme=unicorn)](https://leetcode.com/Leta-Kasahun)
+<div align="center" style="font-size:16px;">
+  <ul style="list-style: none; padding: 0; line-height: 2;">
+    <li>
+      <img src="https://img.icons8.com/ios-filled/20/4682B4/graduation-cap.png" alt="Education" style="vertical-align:middle;"/> 
+      <strong>Education:</strong> Software Engineering Student @ DBU
+    </li>
+    <li>
+      <img src="https://img.icons8.com/ios-filled/20/4682B4/laptop-code.png" alt="Focus" style="vertical-align:middle;"/> 
+      <strong>Focus:</strong> Web & backend development
+    </li>
+    <li>
+      <img src="https://img.icons8.com/ios-filled/20/4682B4/new-post.png" alt="Email" style="vertical-align:middle;"/> 
+      <strong>Contact:</strong> letakasahun2@gmail.com
+    </li>
+  </ul>
 </div>
 
-📊 Coding Activity Graph
+---
+
+## 🌐 Contacts
+
+<div align="center">
+  <a href="mailto:letakasahun2@gmail.com" title="Email">
+    <img src="https://img.icons8.com/ios-filled/48/4682B4/new-post.png" alt="Email" style="height:40px;margin:6px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/leta-kasahun" title="LinkedIn">
+    <img src="https://img.icons8.com/ios-filled/48/4682B4/linkedin.png" alt="LinkedIn" style="height:40px;margin:6px;" />
+  </a>
+  <a href="https://instagram.com/leta_kasahun" title="Instagram">
+    <img src="https://img.icons8.com/ios-filled/48/4682B4/instagram-new.png" alt="Instagram" style="height:40px;margin:6px;" />
+  </a>
+  <a href="https://leta-kasahun.vercel.app" title="Portfolio">
+    <img src="https://img.icons8.com/ios-filled/48/4682B4/domain.png" alt="Portfolio" style="height:40px;margin:6px;" />
+  </a>
+</div>
+
+---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leta-Kasahun&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph&color=58A6FF&line=1F6FEB&point=F8D866" alt="Contribution Graph">
+  <img src="https://img.shields.io/badge/-Technical%20Skills-4682B4?style=for-the-badge&logo=widgets&logoColor=white" alt="Skills" />
 </p>
+
+## 💻 Technical Skills (icons)
+
+<div align="center">
+
+<!-- Row 1 -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="96" height="96" alt="Next.js" style="margin:10px;filter:brightness(0.95);" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="96" height="96" alt="TypeScript" style="margin:10px;filter:brightness(0.95);" />
+<img src="https://img.icons8.com/color/96/000000/javascript.png" width="96" height="96" alt="JavaScript" style="margin:10px;filter:brightness(0.95);" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="96" height="96" alt="React" style="margin:10px;filter:brightness(0.95);" />
+
+<!-- Row 2 -->
+<img src="https://img.icons8.com/color/96/000000/python.png" width="96" height="96" alt="Python" style="margin:10px;filter:brightness(0.95);" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="96" height="96" alt="Node.js" style="margin:10px;filter:brightness(0.95);" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="96" height="96" alt="Express" style="margin:10px;filter:brightness(0.95);" />
+<img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" width="96" height="96" alt="C++" style="margin:10px;filter:brightness(0.95);" />
+
+<!-- Row 3 -->
+<img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" width="96" height="96" alt="Java" style="margin:10px;filter:brightness(0.95);" />
+<img src="https://img.icons8.com/color/96/000000/tailwindcss.png" width="96" height="96" alt="Tailwind CSS" style="margin:10px;filter:brightness(0.95);" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="96" height="96" alt="PostgreSQL" style="margin:10px;filter:brightness(0.95);" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="96" height="96" alt="MongoDB" style="margin:10px;filter:brightness(0.95);" />
+
+<!-- Row 4 -->
+<img src="https://img.icons8.com/color/96/000000/mysql.png" width="96" height="96" alt="MySQL" style="margin:10px;filter:brightness(0.95);" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="96" height="96" alt="Git" style="margin:10px;filter:brightness(0.95);" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="96" height="96" alt="GitHub" style="margin:10px;filter:brightness(0.95);" />
+<img src="https://img.icons8.com/color/96/000000/canva.png" width="96" height="96" alt="Canva" style="margin:10px;filter:brightness(0.95);" />
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-GitHub%20Stats%20%26%20Activity-4682B4?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stats" />
+</p>
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Leta-Kasahun&theme=dark&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub stats" width="420" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Leta-Kasahun&theme=dark&hide_border=false" alt="Streak stats" width="420" />
+</div>
+
+---
+
+## 📊 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leta-Kasahun&langs_count=10&layout=donut-vertical&theme=dark&hide_border=false" width="60%" alt="Most Used Languages">
+</p>
+
+---
+
+## 💡 LeetCode — Live Activity
+
+<div align="center">
+  <a href="https://leetcode.com/Leta-Kasahun">
+    <img src="https://leetcard.jacoblin.cool/Leta-Kasahun?theme=dark&fontFamily=Inter&bgColor=151515" alt="LeetCode Stats" />
+  </a>
+</div>
+
+<!-- LEETCODE_ACTIVITY_START -->
+
+<details>
+<summary>Latest LeetCode Activity</summary>
+
+| Time (UTC) | Problem | Lang | Link |
+|---|---|---:|---|
+| 2025-01-01 00:00:00 | Example Problem | Python | [link](https://leetcode.com/problems/example-problem/) |
+
+</details>
+
+<!-- LEETCODE_ACTIVITY_END -->
+
+---
+
+## 💡 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leta-Kasahun&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph&color=58A6FF&line=1F6FEB" alt="Activity Graph" width="80%"/>
+</p>
+
+---
+
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=500&color=00F7A5&center=true&vCenter=true&width=900&lines=🙏+Thanks+for+scrolling+through+my+profile!;👋+Goodbye!"
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=34&duration=3000&pause=500&color=4682B4&center=true&vCenter=true&width=900&lines=🙏+Thanks+for+scrolling+through+my+profile!;👋+Goodbye+and+happy+coding!"
     alt="Goodbye Typing SVG">
-</p> can you inserts  my leetcode activityies tha really updated with time at my read me
+</p>
+
+---
+
+Thanks for visiting — feel free to connect or collaborate! ✨
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
