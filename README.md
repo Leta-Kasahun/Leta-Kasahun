@@ -119,11 +119,11 @@
     alt="Most Used Languages">
 </p>
 
-## 🏆 LeetCode Profile
+## 🏆 LeetCode Stats
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https://leetcode-badge.vercel.app/api/letakasahun&logo=leetcode&logoColor=yellow)](https://leetcode.com/letakasahun)
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=letakasahun&theme=dark)
 
 </div>
 📊 Coding Activity Graph
