@@ -25,28 +25,18 @@
 </div>
 
 ---
+## 🌱 About Me
 
-## 🌱 About Me (Brief)
+<div align="center" style="font-family: 'Fira Code', monospace; font-size: 16px; line-height: 1.8;">
 
-<div align="center" style="font-size:16px;">
-  <ul style="list-style: none; padding: 0; line-height: 2;">
-    <li>
-      🎓 <strong>Education:</strong> Software Engineering Student @ <b>Debre Berhan University (DBU)</b>
-    </li>
-    <li>
-      💻 <strong>Focus:</strong> Web & Backend Development | Building Scalable Systems
-    </li>
-    <li>
-      📧 <strong>Contact:</strong> <a href="mailto:letakasahun2@gmail.com" style="text-decoration:none;color:#4682B4;">letakasahun2@gmail.com</a>
-    </li>
-    <li>
-      🌐 <strong>Portfolio:</strong> <a href="https://leta-kasahun.vercel.app" target="_blank" style="text-decoration:none;color:#00BFFF;">leta-kasahun.vercel.app</a>
-    </li>
-    <li>
-      ⚡ <strong>Fun Fact:</strong> I love turning complex ideas into simple, elegant code — and a great cup of ☕ fuels every project!
-    </li>
-  </ul>
+  🎓 <strong>Software Engineering Student</strong> @ Debre Berhan University  
+  💻 <strong>Focus:</strong> WeDev  
+  🌐 <strong>Portfolio:</strong> <a href="https://leta-kasahun.vercel.app" target="_blank" style="color:#00BFFF; text-decoration:none;">leta-kasahun.vercel.app</a>  
+  📧 <strong>Email:</strong> <a href="mailto:letakasahun2@gmail.com" style="color:#4682B4; text-decoration:none;">letakasahun2@gmail.com</a>  
+  ⚡ <strong>Fun:</strong> Build • Learn • Evolve  
+
 </div>
+
 
 ---
 
