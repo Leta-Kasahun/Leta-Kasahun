@@ -27,13 +27,15 @@
 ---
 ## 🌱 About Me
 
-<div align="center" style="font-family: 'Fira Code', monospace; font-size: 16px; line-height: 1.8;">
+## 🌱 About Me
 
-  🎓 <strong>Software Engineering Student</strong> @ Debre Berhan University  
-  💻 <strong>Focus:</strong> WeDev  
-  🌐 <strong>Portfolio:</strong> <a href="https://leta-kasahun.vercel.app" target="_blank" style="color:#00BFFF; text-decoration:none;">leta-kasahun.vercel.app</a>  
-  📧 <strong>Email:</strong> <a href="mailto:letakasahun2@gmail.com" style="color:#4682B4; text-decoration:none;">letakasahun2@gmail.com</a>  
-  ⚡ <strong>Fun:</strong> Build • Learn • Evolve  
+<div align="left" style="font-family: 'Fira Code', monospace; font-size: 16px; line-height: 2; margin-left: 20px;">
+
+🎓 <strong>Software Engineering Student</strong> @ Debre Berhan University  
+💻 <strong>Focus:</strong> WeDev  
+🌐 <strong>Portfolio:</strong> <a href="https://leta-kasahun.vercel.app" target="_blank" style="color:#00BFFF; text-decoration:none;">leta-kasahun.vercel.app</a>  
+📧 <strong>Email:</strong> <a href="mailto:letakasahun2@gmail.com" style="color:#4682B4; text-decoration:none;">letakasahun2@gmail.com</a>  
+⚡ <strong>Fun:</strong> Build • Learn • Evolve  
 
 </div>
 
