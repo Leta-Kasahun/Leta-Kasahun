@@ -121,8 +121,8 @@
 ## 💡 LeetCode — Live Activity
 
 <div align="center">
-  <a href="https://leetcode.com/Leta-Kasahun">
-    <img src="https://leetcard.jacoblin.cool/Leta-Kasahun?theme=dark&fontFamily=Inter&bgColor=151515" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/Leta‑Kasahun">
+    <img src="https://leetcard.jacoblin.cool/Leta‑Kasahun?theme=dark&fontFamily=Inter&bgColor=151515" alt="LeetCode Stats" />
   </a>
 </div>
 
@@ -131,9 +131,9 @@
 <details>
 <summary>Latest LeetCode Activity</summary>
 
-| Time (UTC) | Problem | Lang | Link |
-|---|---|---:|---|
-| 2025-01-01 00:00:00 | Example Problem | Python | [link](https://leetcode.com/problems/example-problem/) |
+| Time (UTC)         | Problem           | Lang   | Link                                                |
+|--------------------|-------------------|--------|-----------------------------------------------------|
+| 2025‑10‑30 00:00:00 | Example Problem    | Python | [link](https://leetcode.com/problems/example‑problem/) |
 
 </details>
 
