@@ -118,7 +118,9 @@
     width="60%" 
     alt="Most Used Languages">
 </p>
-
+🏆 LeetCode Activity
+<div align="center"><!-- LeetCode Stats - Updated with your actual username -->
+https://leetcode.card.workers.dev/?username=Leta_Kasahun&theme=dark&font=baloo&extension=null
 📊 Coding Activity Graph
 
 <p align="center">
