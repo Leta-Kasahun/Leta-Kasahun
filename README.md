@@ -117,11 +117,10 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leta-Kasahun&langs_count=10&layout=donut-vertical&theme=radical&hide_border=false"
     width="60%" 
     alt="Most Used Languages">
-</p>
-## 💡 LeetCode Stats
-<p align="center">
-  [![LeetCode Stats](https://leetcard.jacoblin.cool/LetaKasahun?theme=unicorn)](https://leetcode.com/LetaKasahun)
-</p>
+## 💡 LeetCode Activity Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/LetaKasahun?theme=unicorn)](https://leetcode.com/LetaKasahun)
+
 📊 Coding Activity Graph
 
 <p align="center">
