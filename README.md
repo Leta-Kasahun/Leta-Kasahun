@@ -118,11 +118,7 @@
     width="60%" 
     alt="Most Used Languages">
 </p>
-🏆 LeetCode Activity
-<div align="center">
-https://leetcard.jacoblin.cool/Leta-Kasahun?theme=dark&font=Noto%2520Sans%2520Display&ext=activity
 
-</div>
 
 📊 Coding Activity Graph
 
@@ -133,4 +129,3 @@ https://leetcard.jacoblin.cool/Leta-Kasahun?theme=dark&font=Noto%2520Sans%2520Di
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=500&color=00F7A5&center=true&vCenter=true&width=900&lines=🙏+Thanks+for+scrolling+through+my+profile!;👋+Goodbye!"
     alt="Goodbye Typing SVG">
-</p> can you inserts  my leetcode activityies tha really updated with time at my read me  can you make this adds the correct leetcode  activity  set my skills only python js ts nextjs react vite canva  mongo postrgress mysql node express java c++  git github   with thier real iicon
