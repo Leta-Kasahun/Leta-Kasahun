@@ -27,14 +27,13 @@
 ---
 ## 🌱 About Me
 
-## 🌱 About Me
-
 <div align="left" style="font-family: 'Fira Code', monospace; font-size: 16px; line-height: 2; margin-left: 20px;">
 
 🎓 <strong>Software Engineering Student</strong> @ Debre Berhan University  
 💻 <strong>Focus:</strong> WeDev  
 🌐 <strong>Portfolio:</strong> <a href="https://leta-kasahun.vercel.app" target="_blank" style="color:#00BFFF; text-decoration:none;">leta-kasahun.vercel.app</a>  
-📧 <strong>Email:</strong> <a href="mailto:letakasahun2@gmail.com" style="color:#4682B4; text-decoration:none;">letakasahun2@gmail.com</a>  
+📧 <strong>Reach me:</strong> <a href="mailto:letakasahun2@gmail.com" style="color:#4682B4; text-decoration:none;">letakasahun2@gmail.com</a>  
+💡 <strong>Ask me:</strong> Python • Next.js  
 ⚡ <strong>Fun:</strong> Build • Learn • Evolve  
 
 </div>
@@ -114,7 +113,7 @@
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leta-Kasahun&langs_count=10&layout=donut-vertical&theme=dark&hide_border=false" width="60%" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leta-Kasahun&langs_count=20&layout=donut-vertical&theme=dark&hide_border=false" width="60%" alt="Most Used Languages">
 </p>
 
 ---
