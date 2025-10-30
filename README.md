@@ -123,7 +123,7 @@
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/letakasahun?theme=dark&font=Noto%20Sans%20Display&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Leta-Kasahun?theme=dark&font=Noto%20Sans%20Display&ext=activity)
 
 </div>
 📊 Coding Activity Graph
