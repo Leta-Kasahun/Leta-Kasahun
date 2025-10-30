@@ -123,7 +123,7 @@
 
 <div align="center">
 
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=letakasahun)
+[![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=letakasahun&theme=dark)](https://leetcode.com/letakasahun)
 
 </div>
 📊 Coding Activity Graph
