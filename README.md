@@ -119,11 +119,11 @@
     alt="Most Used Languages">
 </p>
 
-## 🏆 LeetCode Stats
+## 🏆 LeetCode Activity
 
 <div align="center">
 
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=letakasahun&theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/letakasahun?theme=dark&font=Noto%20Sans%20Display&ext=activity)
 
 </div>
 📊 Coding Activity Graph
