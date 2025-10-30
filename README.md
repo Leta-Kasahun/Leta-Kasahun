@@ -11,7 +11,7 @@
 🌟 Achievements  
 ![](https://github-profile-trophy.vercel.app/?username=Leta-Kasahun&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
 
-[![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Leta-Kasahun.Leta-Kasahun&style=for-the-badge&logo=github&label=Profile%20Views&labelColor=1F222E&color=00F7A5)](https://github.com/Leta-Kasahun)
+[![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Leta-Kasahun.Leta-Kasahun&style=for-the-badge&logo=github&label=Profile%20Views&labelColor=1F222E&color=00F7A5)](https://github.com/teku-Kasahun)
 
 ## 🌱 About Me
 
