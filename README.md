@@ -119,8 +119,14 @@
     alt="Most Used Languages">
 </p>
 🏆 LeetCode Activity
-<div align="center"><!-- LeetCode Stats - Updated with your actual username -->
-https://leetcode.card.workers.dev/?username=Leta_Kasahun&theme=dark&font=baloo&extension=null
+<div align="center"><!-- LeetCode Stats Card -->
+https://leetcard.jacoblin.cool/Leta_Kasahun?theme=dark&font=Noto%2520Sans%2520Display&ext=activity
+
+<!-- LeetCode Badge -->
+https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%2523ffa116&label=Solved&query=solvedOverTotal&url=https%253A%252F%252Fleetcode-badge.vercel.app%252Fapi%252Fusers%252FLeta_Kasahun&logo=leetcode&logoColor=yellow
+
+</div>
+
 📊 Coding Activity Graph
 
 <p align="center">
