@@ -121,7 +121,9 @@
 
 ## 🏆 LeetCode Activity
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/letakasahun?theme=dark&font=Source+Code+Pro&extension=problem-solving)
+[![LeetCode](https://img.shields.io/badge/LeetCode-letakasahun23-orange?style=flat-square&logo=LeetCode)](https://leetcode.com/u/letakasahun23/)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/letakasahun23?theme=dark&font=Source+Code+Pro&extension=problem-solving)
 
 📊 Coding Activity Graph
 
