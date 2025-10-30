@@ -120,10 +120,8 @@
 </p>
 
 ## 🏆 LeetCode Activity
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-letakasahun23-orange?style=flat-square&logo=LeetCode)](https://leetcode.com/u/letakasahun23/)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/letakasahun23?theme=dark&font=Source+Code+Pro&extension=problem-solving)
+[![LeetCode](https://img.shields.io/badge/LeetCode-letakasahun23-orange?style=flat-square&logo=LeetCode)
+![LeetCode Stats](https://leetcard.jacoblin.cool/letakasahun23?theme=dark&font=Source+Code+Pro&extension=problem-solving)](https://github.com/Leta-Kasahun/LeetCode-Practice)
 
 📊 Coding Activity Graph
 
