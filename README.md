@@ -121,11 +121,8 @@
 
 ## 🏆 LeetCode Activity
 
-<div align="center">
+![LeetCode Stats](https://leetcard.jacoblin.cool/letakasahun?theme=dark&font=Source+Code+Pro&extension=problem-solving)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/letakasahun?theme=dark&font=Noto%20Sans%20Display&ext=activity)
-
-</div>
 📊 Coding Activity Graph
 
 <p align="center">
