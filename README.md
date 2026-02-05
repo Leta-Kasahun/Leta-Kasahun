@@ -1,3 +1,27 @@
+---
+
+## 📊 GitHub Overview
+
+### 🚀 Real-Time Stats
+
+<!-- Dynamic Stats Table -->
+| Metric | Value |
+|--------|-------|
+| **Public Repositories** | ![Repositories](https://img.shields.io/badge/dynamic/json?color=blue&label=&query=public_repos&url=https://api.github.com/users/Leta-Kasahun&logo=github) |
+| **Total Stars** | ![Stars](https://img.shields.io/badge/dynamic/json?color=yellow&label=&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Leta-Kasahun) |
+| **Total Contributions** | ![Contributions](https://badges.strrl.dev/contributions/all/Leta-Kasahun?style=flat&color=green) |
+| **Followers** | ![Followers](https://img.shields.io/github/followers/Leta-Kasahun?color=purple&label=) |
+| **Following** | ![Following](https://img.shields.io/github/following/Leta-Kasahun?color=orange&label=) |
+| **Profile Views** | ![Profile Views](https://komarev.com/ghpvc/?username=Leta-Kasahun&color=blue&label=) |
+
+### 📈 Detailed Stats Cards
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leta-Kasahun&theme=github_dark" width="90%" alt="Profile Details">
+</p>
+
+---
+
+
 <h1 align="center" style="font-size: 2.5em;">
   ✨ Welcome to My GitHub Universe! ✨
 </h1>
