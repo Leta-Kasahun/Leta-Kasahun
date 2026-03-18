@@ -1,19 +1,4 @@
 
-<h1 align="left">Leta Kasahun</h1>
-<p align="left">github.com/letakasahun</p>
-
-<p align="center">
-  <!-- Replace the src URL below with your actual image link: https://avatars.githubusercontent.com/u/193022391?v=4 -->
-  <img src="YOUR_ACTUAL_IMAGE_URL_HERE" width="150" height="150" style="border-radius: 50%; border: 4px solid #2f81f7; box-shadow: 0 0 20px #2f81f7;" alt="Leta Kasahun">
-</p>
-
-<p align="center">
-  <!-- Stat badges with GitHub blue theme, larger size, and increased spacing -->
-  <img src="https://img.shields.io/badge/PROFILE%20VIEWS-4%2C252-2f81f7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=2f81f7&link=https://github.com/Leta-Kasahun" alt="Profile Views" style="margin: 0 10px;">
-  <img src="https://img.shields.io/github/followers/Leta-Kasahun?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=0d1117&color=2f81f7&link=https://github.com/Leta-Kasahun?tab=followers" alt="Followers" style="margin: 0 10px;">
-  <img src="https://img.shields.io/github/stars/Leta-Kasahun?style=for-the-badge&logo=github&logoColor=white&label=STARS&labelColor=0d1117&color=2f81f7&link=https://github.com/Leta-Kasahun?tab=repositories" alt="Stars" style="margin: 0 10px;">
-  <img src="https://img.shields.io/github/commit-activity/y/Leta-Kasahun/Leta-Kasahun?style=for-the-badge&logo=github&logoColor=white&label=COMMITS%2FYEAR&labelColor=0d1117&color=2f81f7" alt="Commits" style="margin: 0 10px;">
-</p>
 <h1 align="center" style="font-size: 2.5em;">
   ✨ Welcome to My GitHub Universe! ✨
 </h1>
