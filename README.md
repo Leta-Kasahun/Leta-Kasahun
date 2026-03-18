@@ -1,17 +1,18 @@
 
 
-<h1 align="center">Leta Kasahun</h1>
-<p align="center">github.com/letakasahun</p>
+<h1 align="left">Leta Kasahun</h1>
+<p align="left">github.com/letakasahun</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PROFILE%20VIEWS-4,252-00F7A5?style=for-the-badge&labelColor=1F222E&color=00F7A5" alt="Profile Views">
-  <img src="https://img.shields.io/badge/FOLLOWERS-14-00F7A5?style=for-the-badge&labelColor=1F222E&color=00F7A5" alt="Followers">
-  <img src="https://img.shields.io/badge/STARS-16-00F7A5?style=for-the-badge&labelColor=1F222E&color=00F7A5" alt="Stars">
-  <img src="https://img.shields.io/badge/COMMITS-35%2FYEAR-00F7A5?style=for-the-badge&labelColor=1F222E&color=00F7A5" alt="Commits">
+  <img src="https://avatars.dicebear.com/api/identicon/letakasahun.svg?background=%231F222E&radius=50" width="120" height="120" style="border-radius: 50%; border: 3px solid #00F7A5;" alt="Leta Kasahun">
 </p>
 
-<!-- Rest of your existing README content continues below -->
-
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Leta-Kasahun.Leta-Kasahun&style=for-the-badge&logo=github&label=Profile%20Views&labelColor=1F222E&color=00F7A5" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/Leta-Kasahun?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=1F222E&color=00F7A5" alt="Followers">
+  <img src="https://img.shields.io/github/stars/Leta-Kasahun?style=for-the-badge&logo=github&label=STARS&labelColor=1F222E&color=00F7A5" alt="Stars">
+  <img src="https://img.shields.io/github/commit-activity/y/Leta-Kasahun/Leta-Kasahun?style=for-the-badge&logo=github&label=COMMITS/YEAR&labelColor=1F222E&color=00F7A5" alt="Commits">
+</p>
 <h1 align="center" style="font-size: 2.5em;">
   ✨ Welcome to My GitHub Universe! ✨
 </h1>
