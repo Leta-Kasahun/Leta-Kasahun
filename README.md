@@ -1,14 +1,13 @@
-
-<h1 align="left" style="font-size: 48px; margin-bottom: 5px;">Leta Kasahun</h1>
-<p align="left" style="font-size: 20px; margin-top: 0;">github.com/letakasahun</p>
-
 <p align="left">
-  <img width="40" height="40" src="https://github.com/user-attachments/assets/b4a078c2-dc23-47d2-8bc9-22d24515efaa" style="border-radius: 50%; border: 2px solid #8957e5; vertical-align: middle; margin-right: 15px;">
+  <img width="48" height="48" src="https://github.com/user-attachments/assets/b4a078c2-dc23-47d2-8bc9-22d24515efaa" style="border-radius: 50%; border: 2px solid #8957e5; vertical-align: middle; margin-right: 20px;">
   
-  <img src="https://img.shields.io/badge/PROFILE%20VIEWS-145-8957e5?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=8957e5" alt="Profile Views" style="vertical-align: middle; margin-right: 10px;">
-  <img src="https://img.shields.io/badge/FOLLOWERS-8-8957e5?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=8957e5" alt="Followers" style="vertical-align: middle; margin-right: 10px;">
-  <img src="https://img.shields.io/badge/STARS-5-8957e5?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=8957e5" alt="Stars" style="vertical-align: middle; margin-right: 10px;">
-  <img src="https://img.shields.io/badge/COMMITS-28%2FYEAR-8957e5?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=8957e5" alt="Commits" style="vertical-align: middle;">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Leta-Kasahun.Leta-Kasahun&style=for-the-badge&logo=github&label=Profile%20Views&labelColor=0d1117&color=8957e5" alt="Profile Views" style="vertical-align: middle; margin-right: 15px;">
+  
+  <img src="https://img.shields.io/github/followers/Leta-Kasahun?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=0d1117&color=8957e5" alt="Followers" style="vertical-align: middle; margin-right: 15px;">
+  
+  <img src="https://img.shields.io/github/stars/Leta-Kasahun?style=for-the-badge&logo=github&logoColor=white&label=STARS&labelColor=0d1117&color=8957e5" alt="Stars" style="vertical-align: middle; margin-right: 15px;">
+  
+  <img src="https://img.shields.io/github/commit-activity/y/Leta-Kasahun/Leta-Kasahun?style=for-the-badge&logo=github&logoColor=white&label=COMMITS%2FYEAR&labelColor=0d1117&color=8957e5" alt="Commits" style="vertical-align: middle;">
 </p>
 <h1 align="center" style="font-size: 2.5em;">
   ✨ Welcome to My GitHub Universe! ✨
