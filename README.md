@@ -1,5 +1,17 @@
 
 
+<h1 align="center">Leta Kasahun</h1>
+<p align="center">github.com/letakasahun</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PROFILE%20VIEWS-4,252-00F7A5?style=for-the-badge&labelColor=1F222E&color=00F7A5" alt="Profile Views">
+  <img src="https://img.shields.io/badge/FOLLOWERS-14-00F7A5?style=for-the-badge&labelColor=1F222E&color=00F7A5" alt="Followers">
+  <img src="https://img.shields.io/badge/STARS-16-00F7A5?style=for-the-badge&labelColor=1F222E&color=00F7A5" alt="Stars">
+  <img src="https://img.shields.io/badge/COMMITS-35%2FYEAR-00F7A5?style=for-the-badge&labelColor=1F222E&color=00F7A5" alt="Commits">
+</p>
+
+<!-- Rest of your existing README content continues below -->
+
 <h1 align="center" style="font-size: 2.5em;">
   ✨ Welcome to My GitHub Universe! ✨
 </h1>
