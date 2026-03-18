@@ -6,7 +6,6 @@
     alt="Profile Photo"
     style="border-radius: 50%; border: 2.5px solid #8957e5; vertical-align: middle; margin-right: 14px;"
   />
-
   <img
     src="https://visitor-badge.laobi.icu/badge?page_id=Leta-Kasahun.Leta-Kasahun&style=for-the-badge&logo=github&label=Profile%20Views&labelColor=0d1117&color=8957e5"
     alt="Profile Views"
