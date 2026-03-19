@@ -18,7 +18,7 @@
 
 *   🎓 Software Engineering Student @ DBU
   
-*   💡 Ask me about: **Python** | **JavaScript**
+*   💡 Ask me about: **Python** | **JavaScript**|**TypeScript**
 *   📫 How to reach me: **letakasahun2@gmail.com**
 *   🌐 Portfolio: [leta-kasahun.vercel.app](https://leta-kasahun.vercel.app)
 *   😄 Pronouns: He/Him
@@ -73,10 +73,7 @@
   <!-- Spring Boot -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="96" height="96" alt="Spring Boot" style="margin: 0 24px;" />
 
-  <!-- Render (using a generic cloud/deploy icon as there's no official Render icon in devicon; we use a simple server/cloud icon to keep aesthetic) 
-       But you specifically asked for Render and Vercel with real icons – for Render I'll use a reliable SVG from simple-icons via CDN -->
-  <img src="https://cdn.simpleicons.org/render" width="96" height="96" alt="Render" style="margin: 0 24px;" />
-
+ 
   <!-- Vercel (official icon from simple-icons) -->
   <img src="https://cdn.simpleicons.org/vercel" width="96" height="96" alt="Vercel" style="background:#fff; border-radius:50%; padding:8px;" />
 
@@ -92,11 +89,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Leta-Kasahun&theme=cobalt&hide_border=false)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
- 
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Leta-Kasahun&langs_count=10&layout=compact&theme=radical&hide_border=false)
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leta-Kasahun&langs_count=10&layout=compact&theme=radical&hide_border=false"
-    width="35%" 
+    width="50%" 
     alt="Most Used Languages">
 </p>
 
