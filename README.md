@@ -72,21 +72,13 @@
   <!-- MongoDB -->
   <img src="https://img.icons8.com/color/96/000000/mongodb.png" width="96" height="96" alt="MongoDB" style="margin: 0 24px;" />
 
-  <!-- Canva -->
-  <img src="https://img.icons8.com/color/96/000000/canva.png" width="96" height="96" alt="Canva" style="margin: 0 24px;" />
-
+  
   <!-- Vercel -->
   <img src="https://img.icons8.com/ios-filled/96/000000/cloud.png" width="96" height="96" alt="Vercel" style="margin: 0 24px;" />
 
-  <!-- Netlify -->
-  <img src="https://img.icons8.com/color/96/000000/netlify.png" width="96" height="96" alt="Netlify" style="margin: 0 24px;" />
-
-  <!-- AWS -->
-  <img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" width="96" height="96" alt="AWS" style="margin: 0 24px;" />
-
-  <!-- Visual Paradigm -->
-  <img src="https://img.icons8.com/color/96/000000/flow-chart.png" width="96" height="96" alt="Visual Paradigm" style="margin: 0 24px;" />
-
+  
+ 
+ 
   <!-- C++ -->
   <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" width="96" height="96" alt="C++" style="margin: 0 24px;" />
 
@@ -116,7 +108,7 @@
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leta-Kasahun&langs_count=10&layout=donut-vertical&theme=radical&hide_border=false"
-    width="60%" 
+    width="40%" 
     alt="Most Used Languages">
 </p>
 
