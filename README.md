@@ -28,73 +28,61 @@
 🌐 Connect With Me:  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leta_kasahun) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/leta-kasahun)
 
-💻 Technical Skills
+## 💻 Technical Skills
+
 <!-- Animated line above (SVG) -->
 <hr>
 <div align="center">
 
-  <!-- VS Code -->
-  <img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" width="96" height="96" alt="VS Code" style="margin: 0 24px;" />
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="96" height="96" alt="Python" style="margin: 0 24px;" />
 
-  <!-- Postman (official icon) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="96" height="96" alt="Postman API" style="margin: 0 24px;" />
-
-  <!-- PostgreSQL (official icon) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="96" height="96" alt="PostgreSQL" style="margin: 0 24px;" />
-
-  <!-- Git -->
-  <img src="https://img.icons8.com/color/96/000000/git.png" width="96" height="96" alt="Git" style="margin: 0 24px;" />
-
-  <!-- GitHub -->
-  <img src="https://img.icons8.com/material-outlined/96/000000/github.png" width="96" height="96" alt="GitHub" style="margin: 0 24px;" />
-
-  <!-- Tailwind CSS -->
-  <img src="https://img.icons8.com/color/96/000000/tailwindcss.png" width="96" height="96" alt="Tailwind CSS" style="margin: 0 24px;" />
-
-  <!-- React -->
-  <img src="https://img.icons8.com/color/96/000000/react-native.png" width="96" height="96" alt="React" style="margin: 0 24px;" />
-
-  <!-- Next.js -->
-  <img src="https://img.icons8.com/ios-filled/96/000000/internet.png" width="96" height="96" alt="Next.js" style="margin: 0 24px;" />
+  <!-- TypeScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="96" height="96" alt="TypeScript" style="margin: 0 24px;" />
 
   <!-- JavaScript -->
-  <img src="https://img.icons8.com/color/96/000000/javascript.png" width="96" height="96" alt="JavaScript" style="margin: 0 24px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="96" height="96" alt="JavaScript" style="margin: 0 24px;" />
 
   <!-- Java -->
-  <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" width="96" height="96" alt="Java" style="margin: 0 24px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="96" height="96" alt="Java" style="margin: 0 24px;" />
 
-  <!-- Python -->
-  <img src="https://img.icons8.com/color/96/000000/python.png" width="96" height="96" alt="Python" style="margin: 0 24px;" />
-
-  <!-- Oracle -->
-  <img src="https://img.icons8.com/color/96/000000/oracle-logo.png" width="96" height="96" alt="Oracle" style="margin: 0 24px;" />
-
-  <!-- MongoDB -->
-  <img src="https://img.icons8.com/color/96/000000/mongodb.png" width="96" height="96" alt="MongoDB" style="margin: 0 24px;" />
-
-  
-  <!-- Vercel -->
-  <img src="https://img.icons8.com/ios-filled/96/000000/cloud.png" width="96" height="96" alt="Vercel" style="margin: 0 24px;" />
-
-  
- 
- 
   <!-- C++ -->
-  <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" width="96" height="96" alt="C++" style="margin: 0 24px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="96" height="96" alt="C++" style="margin: 0 24px;" />
 
-  <!-- CSS -->
-  <img src="https://img.icons8.com/color/96/000000/css3.png" width="96" height="96" alt="CSS" style="margin: 0 24px;" />
+  <!-- PHP -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="96" height="96" alt="PHP" style="margin: 0 24px;" />
 
-  <!-- HTML -->
-  <img src="https://img.icons8.com/color/96/000000/html-5.png" width="96" height="96" alt="HTML" style="margin: 0 24px;" />
+  <!-- Postman -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="96" height="96" alt="Postman" style="margin: 0 24px;" />
 
-  <!-- Express -->
-  <img src="https://img.icons8.com/ios-filled/96/000000/server.png" width="96" height="96" alt="Express" style="margin: 0 24px;" />
+  <!-- Docker -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="96" height="96" alt="Docker" style="margin: 0 24px;" />
+
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="96" height="96" alt="React" style="margin: 0 24px;" />
+
+  <!-- Next.js (using original nextjs icon) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="96" height="96" alt="Next.js" style="margin: 0 24px;" />
 
   <!-- Node.js -->
-  <img src="https://img.icons8.com/color/96/000000/nodejs.png" width="96" height="96" alt="Node.js" style="margin: 0 24px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="96" height="96" alt="Node.js" style="margin: 0 24px;" />
+
+  <!-- Express (original express icon) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="96" height="96" alt="Express" style="margin: 0 24px;" />
+
+  <!-- Spring Boot -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="96" height="96" alt="Spring Boot" style="margin: 0 24px;" />
+
+  <!-- Render (using a generic cloud/deploy icon as there's no official Render icon in devicon; we use a simple server/cloud icon to keep aesthetic) 
+       But you specifically asked for Render and Vercel with real icons – for Render I'll use a reliable SVG from simple-icons via CDN -->
+  <img src="https://cdn.simpleicons.org/render" width="96" height="96" alt="Render" style="margin: 0 24px;" />
+
+  <!-- Vercel (official icon from simple-icons) -->
+  <img src="https://cdn.simpleicons.org/vercel" width="96" height="96" alt="Vercel" style="background:#fff; border-radius:50%; padding:8px;" />
 
 </div>
+
+<hr>
 
 <hr>
 
