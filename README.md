@@ -95,9 +95,8 @@
  
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leta-Kasahun&langs_count=10&layout=donut-vertical&theme=radical&hide_border=false"
-    width="60%" 
-    height="40%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leta-Kasahun&langs_count=10&layout=compact&theme=radical&hide_border=false"
+    width="35%" 
     alt="Most Used Languages">
 </p>
 
