@@ -79,7 +79,7 @@
 
 </div>
 
-<hr>
+
 
 <hr>
 
@@ -90,12 +90,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Leta-Kasahun&langs_count=10&layout=compact&theme=radical&hide_border=false)
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leta-Kasahun&langs_count=10&layout=compact&theme=radical&hide_border=false"
-    width="50%" 
-    alt="Most Used Languages">
-</p>
+
 
 ## 🏆 LeetCode Activity
 [![LeetCode](https://img.shields.io/badge/LeetCode-letakasahun23-orange?style=flat-square&logo=LeetCode)
