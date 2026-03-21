@@ -85,12 +85,13 @@
 
 📊 GitHub Stats:
 <br>
-![](https://github-readme-stats.vercel.app/api?username=Leta-Kasahun&theme=cobalt&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Leta-Kasahun&theme=cobalt&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Leta-Kasahun&langs_count=10&layout=compact&theme=radical&hide_border=false)
+
+
 ![](https://nirzak-streak-stats.vercel.app/?user=Leta-Kasahun&theme=cobalt&hide_border=false)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Leta-Kasahun&langs_count=10&layout=compact&theme=radical&hide_border=false)
-
 
 ## 🏆 LeetCode Activity
 [![LeetCode](https://img.shields.io/badge/LeetCode-letakasahun23-orange?style=flat-square&logo=LeetCode)
