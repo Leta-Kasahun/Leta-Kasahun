@@ -85,11 +85,12 @@
 
 📊 GitHub Stats:
 <br>
-![](https://github-readme-stats.vercel.app/api?username=Leta-Kasahun&theme=cobalt&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Leta-Kasahun&langs_count=10&layout=compact&theme=radical&hide_border=false)
 
+![](https://github-readme-stats.vercel.app/api?username=Leta-Kasahun&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true&cache_seconds=1800)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Leta-Kasahun&theme=cobalt&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Leta-Kasahun&layout=compact&theme=radical&cache_seconds=1800)
+
+![](https://streak-stats.demolab.com?user=Leta-Kasahun&theme=cobalt)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
