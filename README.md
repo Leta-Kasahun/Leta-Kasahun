@@ -84,17 +84,15 @@
 <hr>
 
 📊 GitHub Stats:
-<## 📊 GitHub Stats
-
 <p align="center">
 
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Leta-Kasahun&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" 
+    src="https://github-readme-stats.vercel.app/api?username=Leta-Kasahun&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
     height="180em"
   />
 
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Leta-Kasahun&theme=tokyonight&cache_seconds=1800" 
+    src="https://streak-stats.demolab.com?user=Leta-Kasahun&theme=tokyonight" 
     height="180em"
   />
 
@@ -103,7 +101,7 @@
 <p align="center">
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leta-Kasahun&layout=compact&theme=tokyonight&count_private=true&langs_count=10&cache_seconds=1800" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leta-Kasahun&layout=compact&theme=tokyonight&count_private=true&langs_count=10" 
     height="180em"
   />
 
