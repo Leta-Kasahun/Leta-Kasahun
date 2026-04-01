@@ -88,7 +88,7 @@
 <p align="center">
 
   <img 
-    src="https://github-readme-stats-three-gamma-62.vercel.app/api?username=Leta-Kasahun&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" 
+    src="https://github-readme-stats-three-gamma-62.vercel.app/api?username=Leta-Kasahun&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true&cache_seconds=86400" 
     height="180em"
   />
 
