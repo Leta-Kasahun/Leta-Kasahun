@@ -113,7 +113,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-letakasahun23-orange?style=flat-square&logo=LeetCode)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/letakasahun23?theme=dark&font=Source+Code+Pro&extension=problem-solving)](https://github.com/Leta-Kasahun/LeetCode-Practice)
 ## 🏆 Codeforces Activity
-[![Codeforces](https://img.shields.io/badge/Codeforces-letakasahun-blue?style=flat-square&logo=Codeforces)](https://codeforces.com/profile/letakasahun)
+[![Codeforces](https://img.shields.io/badge/Codeforces-letakasahun-blue?style=flat-square&logo=Codeforces)](https://codeforces.com/profile/letakasahun) <br>
 📊 Coding Activity Graph
 
 <p align="center">
