@@ -73,6 +73,9 @@
   <!-- Express -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="96" height="96" alt="Express" style="margin: 0 24px;" />
 
+  <!-- NestJS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="96" height="96" alt="NestJS" style="margin: 0 24px;" />
+
   <!-- Spring Boot -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="96" height="96" alt="Spring Boot" style="margin: 0 24px;" />
 
@@ -89,8 +92,7 @@
   <img src="https://cdn.simpleicons.org/vercel" width="96" height="96" alt="Vercel" style="background:#fff; border-radius:50%; padding:8px;" />
 
 </div>
-
-<hr><hr>
+<hr>
 
 📊 GitHub Stats:
 
