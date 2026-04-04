@@ -58,30 +58,39 @@
   <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="96" height="96" alt="Docker" style="margin: 0 24px;" />
 
+  <!-- Kubernetes -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="96" height="96" alt="Kubernetes" style="margin: 0 24px;" />
+
   <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="96" height="96" alt="React" style="margin: 0 24px;" />
 
-  <!-- Next.js (using original nextjs icon) -->
+  <!-- Next.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="96" height="96" alt="Next.js" style="margin: 0 24px;" />
 
   <!-- Node.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="96" height="96" alt="Node.js" style="margin: 0 24px;" />
 
-  <!-- Express (original express icon) -->
+  <!-- Express -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="96" height="96" alt="Express" style="margin: 0 24px;" />
 
   <!-- Spring Boot -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="96" height="96" alt="Spring Boot" style="margin: 0 24px;" />
 
- 
-  <!-- Vercel (official icon from simple-icons) -->
+  <!-- FastAPI -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="96" height="96" alt="FastAPI" style="margin: 0 24px;" />
+
+  <!-- Pandas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="96" height="96" alt="Pandas" style="margin: 0 24px;" />
+
+  <!-- NumPy -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="96" height="96" alt="NumPy" style="margin: 0 24px;" />
+
+  <!-- Vercel -->
   <img src="https://cdn.simpleicons.org/vercel" width="96" height="96" alt="Vercel" style="background:#fff; border-radius:50%; padding:8px;" />
 
 </div>
 
-
-
-<hr>
+<hr><hr>
 
 📊 GitHub Stats:
 
