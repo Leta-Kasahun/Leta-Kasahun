@@ -1,13 +1,9 @@
 
 <div align="center">
   
-  | 👤 Profile | 👥 Followers | 📌 Following | ⭐ Stars | 🔀 PRs | 💾 Commits | 👀 Visitors |
-  |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-  | <img src="https://github.com/Leta-Kasahun.png" width="50" style="border-radius: 50%;"/> | <img src="https://img.shields.io/github/followers/Leta-Kasahun?style=for-the-badge&logo=github&label=Followers&color=blue"/> | <img src="https://img.shields.io/github/following/Leta-Kasahun?style=for-the-badge&logo=github&label=Following&color=green"/> | <img src="https://img.shields.io/github/stars/Leta-Kasahun?style=for-the-badge&logo=github&label=Stars&color=yellow"/> | <img src="https://img.shields.io/github/issues-pr/Leta-Kasahun/Leta-Kasahun?style=for-the-badge&logo=github&label=PRs&color=purple"/> | <img src="https://img.shields.io/github/commit-activity/y/Leta-Kasahun/Leta-Kasahun?style=for-the-badge&logo=github&label=Commits&color=orange"/> | <img src="https://komarev.com/ghpvc/?username=Leta-Kasahun&style=for-the-badge&label=Visitors&color=red"/> |
+| <img src="https://github.com/Leta-Kasahun.png" width="50" style="border-radius: 50%;"/> | <img src="https://img.shields.io/github/followers/Leta-Kasahun?style=for-the-badge&logo=github&color=blue"/> | <img src="https://img.shields.io/github/stars/Leta-Kasahun?style=for-the-badge&logo=github&color=yellow"/> | <img src="https://streak-stats.demolab.com?user=Leta-Kasahun&theme=tokyonight&hide_border=true&mode=weekly&currStreakLen=1&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&stroke=00000000&fire=FFA500&ring=FFA500" width="200"/> | <img src="https://komarev.com/ghpvc/?username=Leta-Kasahun&style=for-the-badge&color=red"/> | <img src="https://img.shields.io/github/commit-activity/y/Leta-Kasahun/Leta-Kasahun?style=for-the-badge&logo=github&color=orange"/> | <img src="https://img.shields.io/github/issues-pr/Leta-Kasahun/Leta-Kasahun?style=for-the-badge&logo=github&color=purple"/> |
 
 </div>
-
----
 <h1 align="center" style="font-size: 2.5em;">
   ✨ Welcome to My GitHub Universe! ✨
 </h1>
