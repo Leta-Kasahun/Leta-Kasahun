@@ -36,56 +36,39 @@
 
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="96" height="96" alt="Python" style="margin: 0 24px;" />
-
   <!-- TypeScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="96" height="96" alt="TypeScript" style="margin: 0 24px;" />
-
   <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="96" height="96" alt="JavaScript" style="margin: 0 24px;" />
-
   <!-- Java -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="96" height="96" alt="Java" style="margin: 0 24px;" />
-
   <!-- C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="96" height="96" alt="C++" style="margin: 0 24px;" />
-
   <!-- PHP -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="96" height="96" alt="PHP" style="margin: 0 24px;" />
-
   <!-- Postman -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="96" height="96" alt="Postman" style="margin: 0 24px;" />
-
   <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="96" height="96" alt="Docker" style="margin: 0 24px;" />
-
   <!-- Kubernetes -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="96" height="96" alt="Kubernetes" style="margin: 0 24px;" />
-
   <!-- React -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="96" height="96" alt="React" style="margin: 0 24px;" />
-
   <!-- Next.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="96" height="96" alt="Next.js" style="margin: 0 24px;" />
-
   <!-- Node.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="96" height="96" alt="Node.js" style="margin: 0 24px;" />
-
   <!-- Express -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="96" height="96" alt="Express" style="margin: 0 24px;" />
-
   <img src="https://cdn.simpleicons.org/nestjs/E0234E" width="96" height="96" alt="NestJS" style="margin: 0 24px;" />
   <!-- Spring Boot -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="96" height="96" alt="Spring Boot" style="margin: 0 24px;" />
-
   <!-- FastAPI -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="96" height="96" alt="FastAPI" style="margin: 0 24px;" />
-
   <!-- Pandas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="96" height="96" alt="Pandas" style="margin: 0 24px;" />
-
   <!-- NumPy -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="96" height="96" alt="NumPy" style="margin: 0 24px;" />
-
   <!-- Vercel -->
   <img src="https://cdn.simpleicons.org/vercel" width="96" height="96" alt="Vercel" style="background:#fff; border-radius:50%; padding:8px;" />
 
