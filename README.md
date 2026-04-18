@@ -1,5 +1,9 @@
 
 
+| <img src="https://github.com/Leta-Kasahun.png" width="50" style="border-radius: 50%;"/> | <img src="https://img.shields.io/github/followers/Leta-Kasahun?style=for-the-badge&logo=github&color=blue"/> | <img src="https://img.shields.io/github/stars/Leta-Kasahun?style=for-the-badge&logo=github&color=yellow"/> | <img src="https://komarev.com/ghpvc/?username=Leta-Kasahun&style=for-the-badge&color=red"/> | <img src="https://img.shields.io/github/commit-activity/m/Leta-Kasahun/Leta-Kasahun?style=for-the-badge&logo=github&color=orange"/> | <img src="https://img.shields.io/github/issues-pr/Leta-Kasahun/Leta-Kasahun?style=for-the-badge&logo=github&color=purple"/> |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+
+
 
 <h1 align="center" style="font-size: 2.5em;">
   ✨ Welcome to My GitHub Universe! ✨
