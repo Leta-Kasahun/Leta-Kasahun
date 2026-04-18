@@ -32,7 +32,7 @@
 
 <!-- Animated line above (SVG) -->
 <hr>
-## 🎨 Frontend
+##  🎨 Frontend
 
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50"/> |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -52,9 +52,9 @@
 
 ## ☁️ DevOps
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50"/> | <img src="https://cdn.simpleicons.org/vercel" width="50"/> |
-|:---:|:---:|:---:|
-| Docker | Kubernetes | Vercel |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50"/> | <img src="https://cdn.simpleicons.org/vercel" width="50"/> | <img src="https://cdn.simpleicons.org/render/46E3B7" width="50"/> |
+|:---:|:---:|:---:|:---:|
+| Docker | Kubernetes | Vercel | Render |
 
 ## 📊 Data & Libraries
 
