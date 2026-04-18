@@ -1,8 +1,8 @@
 
 
-
-| <img src="https://github.com/Leta-Kasahun.png" width="50" style="border-radius: 50%;"/> | <img src="https://img.shields.io/github/followers/Leta-Kasahun?style=for-the-badge&logo=github&color=blue"/> | <img src="https://img.shields.io/github/stars/Leta-Kasahun?style=for-the-badge&logo=github&color=yellow"/> | <img src="https://komarev.com/ghpvc/?username=Leta-Kasahun&style=for-the-badge&color=red"/> | <img src="https://img.shields.io/badge/Commits-1,234-orange?style=for-the-badge&logo=github"/> | <img src="https://img.shields.io/badge/PRs-89-purple?style=for-the-badge&logo=github"/> |
+| <img src="https://github.com/Leta-Kasahun.png" width="50" style="border-radius: 50%;"/> | <img src="https://img.shields.io/github/followers/Leta-Kasahun?style=for-the-badge&logo=github&color=blue"/> | <img src="https://img.shields.io/github/stars/Leta-Kasahun?style=for-the-badge&logo=github&color=yellow"/> | <img src="https://visitcount.itsvg.in/api?id=Leta-Kasahun&label=Profile%20Views&color=12&icon=5&pretty=true"/> | <img src="https://img.shields.io/badge/Total%20Commits-1,378-orange?style=for-the-badge&logo=github"/> | <img src="https://img.shields.io/badge/Total%20PRs-47-purple?style=for-the-badge&logo=github"/> |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+
 
 
 <h1 align="center" style="font-size: 2.5em;">
