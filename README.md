@@ -27,36 +27,31 @@
 *   😄 Pronouns: He/Him
 *   ⚡ Fun Fact: I enjoy turning ideas into code and building projects that inspire 🇪🇹
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-```markdown
 ## 🎯 Current Focus
 
-```yaml
-AI Engineer Roadmap:
+> **AI Engineer Roadmap**
 
-Phase 1 - ML Fundamentals:
-  - Scikit-learn
-  - Supervised Learning (Regression, Classification)
-  - Unsupervised Learning (Clustering, PCA)
-  - Model Evaluation
+$ ./learn --path ai-engineer
 
-Phase 2 - Deep Learning:
-  - PyTorch & TensorFlow
-  - Neural Networks
-  - Computer Vision / NLP
+├── 1. ML Literacy
+│   └── Scikit-learn · Supervised/Unsupervised · Embeddings
+│
+├── 2. LangChain & RAG
+│   └── LangChain · RAG · Vector DBs · Prompt Engineering
+│
+├── 3. LLM & AI Agents
+│   └── LLM Integration · LangGraph · Production AI
+│
+├── 4. MLOps
+│   └── Kubernetes · AWS · Docker
+│
+├── 5. Advanced Deep Learning
+│   └── TensorFlow · PyTorch · Neural Networks
+│
+└── 6. Big Data
+    └── Apache Spark · Data Pipelines · Distributed Computing
 
-Phase 3 - LLM & AI Engineering:
-  - LangChain & RAG Systems
-  - LLM Integration & Fine-tuning
-  - Vector Databases (Pinecone, Weaviate)
-
-Phase 4 - MLOps & Deployment:
-  - Kubernetes (K8s)
-  - AWS (ECS, EKS, Lambda)
-  - Docker & CI/CD Pipelines
-
-Goal: "🎯 Become an AI Engineer"
-```
+🎯 Goal: Become an AI Engineer
 ## 🌐 Connect With Me
 
 
