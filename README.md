@@ -76,7 +76,7 @@
 | Postman | VS Code | Git |
 <hr>
 
-📊 GitHub Stats:
+
 
 ## 📊 GitHub Stats
 
