@@ -32,7 +32,7 @@
 > **AI Engineer Roadmap**
 
 $ ./learn --path ai-engineer
-
+```bash
 ├── 1. ML Literacy
 │   └── Scikit-learn · Supervised/Unsupervised · Embeddings
 │
@@ -50,7 +50,7 @@ $ ./learn --path ai-engineer
 │
 └── 6. Big Data
     └── Apache Spark · Data Pipelines · Distributed Computing
-
+```
 🎯 Goal: Become an AI Engineer
 ## 🌐 Connect With Me
 
