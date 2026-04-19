@@ -33,8 +33,11 @@
 ## 🌐 Connect With Me
 
 
-| <a href="https://instagram.com/leta_kasahun"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=30" width="160"/></a> | <a href="https://linkedin.com/in/leta-kasahun"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30" width="160"/></a> | <a href="https://t.me/letakasahun"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=30" width="160"/></a> | <a href="https://twitter.com/Lkasahun"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white&logoWidth=30" width="160"/></a> |
+## 🌐 Connect With Me
+
+| <a href="https://instagram.com/leta_kasahun"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="130"/></a> | <a href="https://linkedin.com/in/lkasahun"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="130"/></a> | <a href="https://t.me/letakasahun"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="130"/></a> | <a href="https://twitter.com/Lkasahun"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="130"/></a> |
 |:---:|:---:|:---:|:---:|
+
 
 
 
