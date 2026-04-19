@@ -50,10 +50,9 @@
 | Python | Java | Node.js | Express | NestJS | FastAPI | Spring Boot | C++ |
 
 ## 🗄️ Database
-
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/> |
-|:---:|:---:|
-| PostgreSQL | MongoDB |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50"/> |
+|:---:|:---:|:---:|
+| PostgreSQL | MongoDB | SQL Server |
 
 ## ☁️ DevOps
 
@@ -68,10 +67,9 @@
 | Pandas | NumPy | Scikit-learn |
 
 ## 🛠 Tools
-
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/> |
-|:---:|:---:|
-| Postman | VS Code |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/> |
+|:---:|:---:|:---:|
+| Postman | VS Code | Git |
 <hr>
 
 📊 GitHub Stats:
