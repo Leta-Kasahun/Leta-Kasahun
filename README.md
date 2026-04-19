@@ -50,7 +50,7 @@
 | Python | Java | Node.js | Express | NestJS | FastAPI | Spring Boot | C++ |
 
 ## 🗄️ Database
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/> | <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="50"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="50"/> |
 |:---:|:---:|:---:|
 | PostgreSQL | MongoDB | SQL Server |
 
