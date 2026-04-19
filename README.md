@@ -78,28 +78,11 @@
 
 📊 GitHub Stats:
 
-<p align="center">
+## 📊 GitHub Stats
 
-  <img 
-    src="https://github-readme-stats-three-gamma-62.vercel.app/api?username=Leta-Kasahun&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true&cache_seconds=86400" 
-    height="180em"
-  />
+| <img src="https://github-readme-stats-three-gamma-62.vercel.app/api?username=Leta-Kasahun&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true&cache_seconds=86400" height="180em"/> | <img src="https://streak-stats.demolab.com?user=Leta-Kasahun&theme=tokyonight&cache_seconds=86400" height="180em"/> | <img src="https://github-readme-stats-three-gamma-62.vercel.app/api/top-langs/?username=Leta-Kasahun&layout=compact&theme=tokyonight&count_private=true&langs_count=10&cache_seconds=86400" height="180em"/> |
+|:---:|:---:|:---:|
 
-  <img 
-    src="https://streak-stats.demolab.com?user=Leta-Kasahun&theme=tokyonight&cache_seconds=86400" 
-    height="180em"
-  />
-
-</p>
-
-<p align="center">
-
-  <img 
-    src="https://github-readme-stats-three-gamma-62.vercel.app/api/top-langs/?username=Leta-Kasahun&layout=compact&theme=tokyonight&count_private=true&langs_count=10&cache_seconds=86400" 
-    height="180em"
-  />
-
-</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🏆 LeetCode Activity
