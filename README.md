@@ -27,31 +27,7 @@
 *   😄 Pronouns: He/Him
 *   ⚡ Fun Fact: I enjoy turning ideas into code and building projects that inspire 🇪🇹
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 🎯 Current Focus
 
-> **AI Engineer Roadmap**
-
-$ ./learn --path ai-engineer
-```bash
-├── 1. ML Literacy
-│   └── Scikit-learn · Supervised/Unsupervised · Embeddings
-│
-├── 2. LangChain & RAG
-│   └── LangChain · RAG · Vector DBs · Prompt Engineering
-│
-├── 3. LLM & AI Agents
-│   └── LLM Integration · LangGraph · Production AI
-│
-├── 4. MLOps
-│   └── Kubernetes · AWS · Docker
-│
-├── 5. Advanced Deep Learning
-│   └── TensorFlow · PyTorch · Neural Networks
-│
-└── 6. Big Data
-    └── Apache Spark · Data Pipelines · Distributed Computing
-```
-🎯 Goal: Become an AI Engineer
 ## 🌐 Connect With Me
 
 
