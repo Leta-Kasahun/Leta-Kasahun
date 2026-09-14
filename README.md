@@ -23,7 +23,7 @@
   
 *   💡 Ask me about: **Python** | **JavaScript**|**TypeScript**
 *   📫 How to reach me: **letakasahun2@gmail.com**
-*   🌐 Portfolio: [leta-kasahun.vercel.app](https://leta-kasahun.vercel.app)
+*   🌐 Portfolio: [leta-kasahun.vercel.app](https://letakasahun.vercel.app)
 *   😄 Pronouns: He/Him
 *   ⚡ Fun Fact: I enjoy turning ideas into code and building projects that inspire 🇪🇹
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
