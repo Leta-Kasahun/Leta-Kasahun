@@ -1,32 +1,17 @@
 
 
-
-
-
-
 <h1 align="center" style="font-size: 2.5em;">
   ✨ Welcome to My GitHub Universe! ✨
 </h1>
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=4682B4&center=true&vCenter=true&width=1000&lines=👋+Hi+there!+I'm+Leta+Kasahun;🚀+Passionate+Software+Engineer+%7C+Web+Developer"
-    alt="Animated Introduction">
-</p>
 
+I'm Leta Kasahun, a software engineer and full-stack developer from Ethiopia, studying Software Engineering at Debre Birhan University. I build complete web applications, from the database and backend APIs to a clean, responsive user interface, mainly with TypeScript, Next.js, Express and PostgreSQL.
 
-[![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Leta-Kasahun.Leta-Kasahun&style=for-the-badge&logo=github&label=Profile%20Views&labelColor=1F222E&color=00F7A5)](https://github.com/teku-Kasahun)
+My work includes Progressive Web Apps and AI features built with LLMs and RAG. I also handle the delivery side, using Docker, GitHub Actions and CI/CD to deploy my projects reliably.
 
-## 🌱 About Me
+I care about clean, maintainable code and good teamwork, and I'm always learning and open to new opportunities.
 
-*   🎓 Software Engineering Student @ DBU
-  
-*   💡 Ask me about: **Python** | **JavaScript**|**TypeScript**
-*   📫 How to reach me: **letakasahun2@gmail.com**
-*   🌐 Portfolio: [leta-kasahun.vercel.app](https://letakasahun.vercel.app)
-*   😄 Pronouns: He/Him
-*   ⚡ Fun Fact: I enjoy turning ideas into code and building projects that inspire 🇪🇹
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Portfolio: [letakasahun.vercel.app](https://letakasahun.vercel.app)
 
 ## 🌐 Connect With Me
 
@@ -88,8 +73,6 @@
 ## 🏆 LeetCode Activity
 [![LeetCode](https://img.shields.io/badge/LeetCode-letakasahun23-orange?style=flat-square&logo=LeetCode)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/letakasahun23?theme=dark&font=Source+Code+Pro&extension=problem-solving)](https://github.com/Leta-Kasahun/LeetCode-Practice)
-## 🏆 Codeforces Activity
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=letakasahun)](https://codeforces.com/profile/letakasahun)
 
 <br>
 📊 Coding Activity Graph
@@ -97,7 +80,4 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leta-Kasahun&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph&color=58A6FF&line=1F6FEB&point=F8D866" alt="Contribution Graph">
 </p>
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=500&color=00F7A5&center=true&vCenter=true&width=900&lines=🙏+Thanks+for+scrolling+through+my+profile!;👋+Goodbye!"
-    alt="Goodbye Typing SVG">
+
