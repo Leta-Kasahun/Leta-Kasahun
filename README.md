@@ -1,17 +1,8 @@
-
-
 <h1 align="center" style="font-size: 2.5em;">
   ✨ Welcome to My GitHub Universe! ✨
 </h1>
 
-
-I'm Leta Kasahun, a software engineer and full-stack developer from Ethiopia, studying Software Engineering at Debre Birhan University. I build complete web applications, from the database and backend APIs to a clean, responsive user interface, mainly with TypeScript, Next.js, Express and PostgreSQL.
-
-My work includes Progressive Web Apps and AI features built with LLMs and RAG. I also handle the delivery side, using Docker, GitHub Actions and CI/CD to deploy my projects reliably.
-
-I care about clean, maintainable code and good teamwork, and I'm always learning and open to new opportunities.
-
-Portfolio: [letakasahun.vercel.app](https://letakasahun.vercel.app)
+I'm Leta Kasahun, a software engineer and full-stack developer from Ethiopia, studying Software Engineering at Debre Birhan University. I build complete web applications, from the database and backend APIs to a clean, responsive user interface, mainly with TypeScript, Next.js, Express and PostgreSQL. My work includes Progressive Web Apps and AI features built with LLMs and RAG, and I use Docker, GitHub Actions and CI/CD to deploy my projects reliably. I care about clean, maintainable code and good teamwork, and I'm always learning and open to new opportunities. [Portfolio](https://letakasahun.vercel.app)
 
 ## 🌐 Connect With Me
 
@@ -80,4 +71,3 @@ Portfolio: [letakasahun.vercel.app](https://letakasahun.vercel.app)
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leta-Kasahun&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph&color=58A6FF&line=1F6FEB&point=F8D866" alt="Contribution Graph">
 </p>
-
