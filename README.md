@@ -22,4 +22,5 @@ Software Engineering student at Debre Birhan University, open to new opportuniti
 
 ## GitHub Stats
 
-![Leta's GitHub stats](https://github-readme-stats-three-gamma-62.vercel.app/api?username=Leta-Kasahun&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
+| <img src="https://github-readme-stats-three-gamma-62.vercel.app/api?username=Leta-Kasahun&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" height="180"/> | <img src="https://streak-stats.demolab.com?user=Leta-Kasahun&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180"/> | <img src="https://github-readme-stats-three-gamma-62.vercel.app/api/top-langs/?username=Leta-Kasahun&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=6&cache_seconds=86400" height="180"/> |
+|:---:|:---:|:---:|
